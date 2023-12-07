@@ -1,0 +1,23 @@
+Katarina has borrowed 300,000 from Trout Bank. Katarina will repay 100,000 of principal at the
+end of each of the first three years.
+Katarina will pay Trout Bank a variable interest rate equal to the one year spot interest rate at the
+beginning of each year.
+Katarina would like to have a fixed interest rate so she enters into an interest rate swap with Lily.
+Under the interest rate swap, Katarina will pay a fixed rate to Lily, and Lily will pay a variable
+rate to Katarina. The variable rate will be the same rate that Katarina is paying to Trout Bank.
+The other terms of the swap will mirror the loan that Katarina has.
+
+
+Which of the following statements is true?
+
+
+       A.      This is an accreting swap.
+       B.      The settlement period for the swap is three years.
+       C.      The notional amount for this swap is 300,000.
+       D.      Katarina and Trout Bank are counterparties to the swap.
+       E.      Lily is the receiver under the swap.
+
+
+
+
+                                                                                                  96

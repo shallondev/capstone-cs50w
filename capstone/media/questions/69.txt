@@ -1,0 +1,21 @@
+Bill and Joe each put 10 into separate accounts at time t = 0, where t is measured in years.
+Bill’s account earns interest at a constant annual effective interest rate of K/25, K > 0.
+                                                                 1
+Joe’s account earns interest at a force of interest, δ t =             .
+                                                             K + 0.25t
+At the end of four years, the amount in each account is X.
+
+
+Calculate X.
+
+
+        (A)     20.7
+        (B)     21.7
+        (C)     22.7
+        (D)     23.7
+        (E)     24.7
+
+
+
+
+                                                                                               37

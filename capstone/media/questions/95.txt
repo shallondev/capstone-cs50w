@@ -1,0 +1,18 @@
+Tim takes out an n-year loan with equal annual payments at the end of each year.
+The interest portion of the payment at time (n − 1) is equal to 0.5250 of the interest portion of the
+payment at time (n − 3) and is also equal to 0.1427 of the interest portion of the first payment.
+
+
+Calculate n.
+
+
+       (A)     18
+       (B)     20
+       (C)     22
+       (D)     24
+       (E)     26
+
+
+
+
+                                                                                                  51

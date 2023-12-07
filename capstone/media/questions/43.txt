@@ -1,0 +1,19 @@
+Joe must pay liabilities of 2000 due one year from now and another 1000 due two years from
+now. He exactly matches his liabilities with the following two investments:
+Mortgage I: A one year mortgage in which X is lent. It is repaid with a single payment at time
+one. The annual effective interest rate is 6%.
+Mortgage II: A two-year mortgage in which Y is lent. It is repaid with two equal annual
+payments. The annual effective interest rate is 7%.
+
+
+Calculate X + Y.
+       (A)     2600
+       (B)     2682
+       (C)     2751
+       (D)     2825
+       (E)     3000
+
+
+
+
+                                                                                                 24

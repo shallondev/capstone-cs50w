@@ -1,0 +1,18 @@
+A 30-year annuity is arranged to pay off a loan taken out today at a 5% annual effective interest
+rate. The first payment of the annuity is due in ten years in the amount of 1,000. The subsequent
+payments increase by 500 each year.
+
+
+Calculate the amount of the loan.
+
+
+       (A)     58,283
+       (B)     61,197
+       (C)     64,021
+       (D)     64,257
+       (E)     69,211
+
+
+
+
+                                                                                              48

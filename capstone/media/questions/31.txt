@@ -1,0 +1,13 @@
+An investor pays 100,000 today for a 4-year investment that returns cash flows of 60,000 at the
+end of each of years 3 and 4. The cash flows can be reinvested at 4.0% per annum effective.
+
+
+Using an annual effective interest rate of 5.0%, calculate the net present value of this investment
+today.
+
+
+             (A)      -1398
+             (B)      -699
+             (C)      699
+             (D)      1398
+             (E)      2,629

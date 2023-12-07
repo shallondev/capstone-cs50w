@@ -1,0 +1,12 @@
+A loan is amortized with level monthly payments at an annual effective interest rate of 10%. The
+amount of principal repaid in the 6th month is 500.
+
+
+Calculate the principal repaid in the 30th month.
+
+
+       (A)     500
+       (B)     555
+       (C)     605
+       (D)     705
+       (E)     805

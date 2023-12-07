@@ -1,0 +1,16 @@
+An n-year bond with semiannual coupons has the following characteristics:
+       i)       The par value and redemption value are 2500;
+       ii)      The annual coupon rate is 7% payable semi-annually;
+       iii)     The annual nominal yield to maturity is 8% convertible semiannually; and
+       iv)      The book value immediately after the fourth coupon is 8.44 greater than the book
+                value immediately after the third coupon.
+
+
+Calculate n.
+
+
+       (A)       6.5
+       B)        7.0
+       (C)       9.5
+       (D)      12.0
+       (E)      14.0

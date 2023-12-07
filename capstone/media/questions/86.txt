@@ -1,0 +1,14 @@
+John finances his daughter’s college education by making deposits into a fund earning interest at
+an annual effective rate of 8%. For 18 years he deposits X at the beginning of each month.
+In the 16th through the 19th years, he makes a withdrawal of 25,000 at the beginning of each year.
+The final withdrawal reduces the fund balance to zero.
+
+
+Calculate X.
+
+
+       (A)     207
+       (B)     223
+       (C)     240
+       (D)     245
+       (E)     260

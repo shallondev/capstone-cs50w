@@ -1,0 +1,20 @@
+On January 1, 2003 Mike took out a 30-year mortgage loan in the amount of 200,000 at an
+annual nominal interest rate of 6% compounded monthly. The loan was to be repaid by level
+end-of-month payments with the first payment on January 31, 2003.
+Mike repaid an extra 10,000 in addition to the regular monthly payment on each December 31 in
+the years 2003 through 2007.
+
+
+Determine the date on which Mike will make his last payment (which is a drop payment).
+
+
+       (A)     July 31, 2013
+       (B)     November 30, 2020
+       (C)     December 31, 2020
+       (D)     December 31, 2021
+       (E)     January 31, 2022
+
+
+
+
+                                                                                             52

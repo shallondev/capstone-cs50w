@@ -1,0 +1,24 @@
+SOA Farms has a 500,000 loan from Bailey Bank. Under the terms of the loan, SOA will pay
+interest annually to Bailey Bank based on LIBOR plus 120 basis points. Additionally, SOA will
+pay the principal of 500,000 at the end of five years.
+SOA would prefer to know the annual interest cost that will be incurred. To fix the interest rate
+on the loan, SOA enters into a five-year interest rate swap with a notional amount of 500,000 and
+annual settlement dates. The terms of the swap are that SOA will make swap payments based on
+a fixed rate of 5.35% and will receive swap payments based on a variable rate of LIBOR plus 50
+basis points.
+During the third year of the loan, LIBOR is 5.6%.
+
+
+Calculate the net interest payment made by SOA at the end of the third year.
+
+
+       A.     26,750
+       B.     29,250
+       C.     30,250
+       D.     31,500
+       E.     34,000
+
+
+
+
+                                                                                            100

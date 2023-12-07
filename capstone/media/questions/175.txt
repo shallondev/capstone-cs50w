@@ -1,0 +1,19 @@
+Jenna decides to purchase a U.S. Treasury Bill for 95,000. The Treasury Bill matures in 180
+days for 100,000.
+Let QR be the quoted rate on this U.S. Treasury Bill.
+Let j be the annual effective yield on this U.S. Treasury Bill assuming a 365 day year.
+
+
+Calculate j – QR.
+
+
+       A.      0.25%
+       B.      0.40%
+       C.      0.65%
+       D.      0.96%
+       E.      1.23%
+
+
+
+
+                                                                                               94

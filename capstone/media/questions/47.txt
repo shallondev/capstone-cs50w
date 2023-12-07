@@ -1,0 +1,19 @@
+Sue purchased a 10-year par value bond with an annual nominal coupon rate of 4% payable
+semiannually at a price of 1021.50. The bond can be called at par value X on any coupon date
+starting at the end of year 5. The lowest yield rate that Sue can possibly receive is an annual
+nominal rate of 6% convertible semiannually.
+
+
+Calculate X.
+
+
+       (A)     1120
+       (B)     1140
+       (C)     1160
+       (D)     1180
+       (E)     1200
+
+
+
+
+                                                                                                  26

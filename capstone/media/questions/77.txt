@@ -1,0 +1,18 @@
+An investor wishes to accumulate 5000 in a fund at the end of 15 years. To accomplish this, she
+plans to make equal deposits of X at the end of each year for the first ten years. The fund earns
+an annual effective rate of 6% during the first ten years and 5% for the next five years.
+
+
+Calculate X.
+
+
+       (A)     224
+       (B)     284
+       (C)     297
+       (D)     312
+       (E)     379
+
+
+
+
+                                                                                               41

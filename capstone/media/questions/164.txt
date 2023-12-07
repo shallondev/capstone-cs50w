@@ -1,0 +1,23 @@
+A company has liabilities that require it to make payments of 1000 at the end of each of the next
+five years. The only investments available to the company are as follows:
+
+
+Investment     Price Subsequent Cash Flows
+J              1500    500 at the end of each year for 5 years
+K              500     1000 at the end of year 5
+L              1000    500 at the end of each year for 4 years
+M              4000    1000 at the end of each year for 5 years
+
+
+The company is able to purchase as many of each investment as it wants, but only in whole units.
+The company’s investment objective is to be fully immunized over the next five years.
+
+
+Calculate the lowest possible cost to achieve this objective.
+
+
+       (A)     1500
+       (B)     2000
+       (C)     2500
+       (D)     3000
+       (E)     4000

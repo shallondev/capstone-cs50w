@@ -1,0 +1,16 @@
+A common stock will pay 2 per share in dividends at the end of the current year. You are given
+that the earnings of the corporation increase 7% per year indefinitely, the number of shares
+increases 4% per year indefinitely, and that the corporation plans to continue to pay the same
+percentage of its earnings in dividends.
+The price of the stock 10 years from the beginning of the current year will be X. At that time, the
+annual effective interest rate is assumed to be 10%.
+
+
+Calculate X using the dividend discount model.
+
+
+       (A)     36.32
+       (B)     36.91
+       (C)     37.35
+       (D)     37.97
+       (E)     38.55

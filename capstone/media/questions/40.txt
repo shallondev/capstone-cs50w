@@ -1,0 +1,21 @@
+A man turns 40 today and wishes to provide supplemental retirement income of 3000 at the
+beginning of each month starting on his 65th birthday. Starting today, he makes monthly
+contributions of X to a fund for 25 years. The fund earns an annual nominal interest rate of 8%
+compounded monthly.
+On his 65th birthday, each 1000 of the fund will provide 9.65 of income at the beginning of each
+month starting immediately and continuing as long as he survives.
+
+
+Calculate X.
+
+
+       (A)     324.70
+       (B)     326.90
+       (C)     328.10
+       (D)     355.50
+       (E)     450.70
+
+
+
+
+                                                                                              22

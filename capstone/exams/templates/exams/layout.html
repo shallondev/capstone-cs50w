@@ -1,0 +1,43 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>{% block title %}Exam FM Test Prep{% endblock %}</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+        <link href="{% static 'auctions/styles.css' %}" rel="stylesheet">
+    </head>
+    <body>
+        <h1 class="text-info">Exam FM Test Prep</h2>
+        <div class="text-secondary">
+            {% if user.is_authenticated %}
+                Signed in as <strong>{{ user.username }}</strong>.
+            {% else %}
+                Not signed in.
+            {% endif %}
+        </div>
+        <ul class="nav text-primary">
+            {% if user.is_authenticated %}
+                <li class="nav-item">
+                    Take Practice Exam
+                </li>
+                <li class="nav-item">
+                    Free Study Resources
+                </li>
+                <li class="nav-item">
+                    <a href="{% url 'logout' %}">Log out</a>
+                </li>
+            {% else %}
+                <li class="nav-item">
+                    <a href="{% url 'login' %}">Log</a>
+                </li>
+                <li class="nav-item">
+                    <a href="{% url 'register' %}">Register</a>
+                </li>
+            {% endif %}
+        </ul>
+        <hr>
+        {% block body %}
+        {% endblock %}
+    </body>
+</html>

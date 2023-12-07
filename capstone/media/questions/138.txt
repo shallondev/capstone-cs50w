@@ -1,0 +1,20 @@
+A 16-year loan of L is repaid with a payment at the end of each year. During the first eight
+years, the payment is 100. During the final eight years, the payment is 300. Interest is charged
+on the loan at an annual effective rate of i, such that 1/ (1 + i )8 > 0.3.
+After the first payment of 100 is made, the outstanding principal is L + 25.
+
+
+Calculate the outstanding balance on the loan immediately after the eighth annual payment of
+100 has been made.
+
+
+       (A)     1660
+       (B)     1760
+       (C)     1870
+       (D)     1970
+       (E)     2080
+
+
+
+
+                                                                                               74

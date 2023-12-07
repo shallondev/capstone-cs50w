@@ -1,0 +1,16 @@
+Turner buys a new car and finances it with a loan of 22,000. He will make n monthly payments
+of 450.30 starting in one month. He will make one larger payment in n+1 months to pay off the
+loan. Payments are calculated using an annual nominal interest rate of 8.4%, convertible
+monthly. Immediately after the 18th payment he refinances the loan to pay off the remaining
+balance with 24 monthly payments starting one month later. This refinanced loan uses an annual
+nominal interest rate of 4.8%, convertible monthly.
+
+
+Calculate the amount of the new monthly payment.
+
+
+       (A)     668
+       (B)     693
+       (C)     702
+       (D)     715
+       (E)     742

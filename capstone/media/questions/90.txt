@@ -1,0 +1,19 @@
+A woman worked for 30 years before retiring. At the end of the first year of employment she
+deposited 5000 into an account for her retirement. At the end of each subsequent year of
+employment, she deposited 3% more than the prior year. The woman made a total of 30
+deposits.
+She will withdraw 50,000 at the beginning of the first year of retirement and will make annual
+withdrawals at the beginning of each subsequent year for a total of 30 withdrawals. Each of
+these subsequent withdrawals will be 3% more than the prior year. The final withdrawal
+depletes the account.
+The account earns a constant annual effective interest rate.
+
+
+Calculate the account balance after the final deposit and before the first withdrawal.
+
+
+       (A)     760,694
+       (B)     783,948
+       (C)     797,837
+       (D)     805,541
+       (E)     821,379

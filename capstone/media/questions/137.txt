@@ -1,0 +1,12 @@
+A loan of 20,000 is repaid by a payment of X at the end of each year for 10 years. The loan has
+an annual effective interest rate of 11% for the first five years and 12% thereafter.
+
+
+Calculate X.
+
+
+       (A)     2739.5
+       (B)     3078.5
+       (C)     3427.5
+       (D)     3467.5
+       (E)     3484.5

@@ -1,0 +1,18 @@
+1000 is deposited into Fund X, which earns an annual effective rate of 6%. At the end of each
+year, the interest earned plus an additional 100 is withdrawn from the fund. At the end of the
+tenth year, the fund is depleted.
+The annual withdrawals of interest and principal are deposited into Fund Y, which earns an
+annual effective rate of 9%.
+
+
+Calculate the accumulated value of Fund Y at the end of year 10.
+
+
+       (A)     1519
+       (B)     1819
+       (C)     2085
+       (D)     2273
+       (E)     2431
+
+
+8.     Deleted

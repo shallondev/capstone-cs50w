@@ -1,0 +1,14 @@
+An entrepreneur takes out a business loan for 60,000 with a nominal annual interest rate
+compounded monthly. The loan is scheduled to be paid off with level monthly payments, plus a
+final drop payment. All payments will be made at the end of the month.
+The principal portion of the payment is 1,400 for the first month and 1,414 for the second month.
+
+
+Calculate the drop payment.
+
+
+       (A)      780
+       (B)      788
+       (C)     1183
+       (D)     1676
+       (E)     1692

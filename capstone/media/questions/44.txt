@@ -1,0 +1,19 @@
+Joe must pay liabilities of 1,000 due one year from now and another 2,000 due three years from
+now. There are two available investments:
+Bond I: A one-year zero-coupon bond that matures for 1000. The yield rate is 6% per year
+Bond II: A two-year zero-coupon bond with face amount of 1,000. The yield rate is 7% per year.
+At the present time the one-year forward rate for an investment made two years from now is
+6.5%
+
+
+Joe plans to buy amounts of each bond. He plans to reinvest the proceeds from Bond II in a one-
+year zero-coupon bond. Assuming the reinvestment earns the forward rate, calculate the total
+purchase price of Bond I and Bond II where the amounts are selected to exactly match the
+liabilities.
+
+
+       (A)     2584
+       (B)     2697
+       (C)     2801
+       (D)     2907
+       (E)     3000

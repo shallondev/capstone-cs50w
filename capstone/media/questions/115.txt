@@ -1,0 +1,20 @@
+An insurance company has a known liability of 1,000,000 that is due 8 years from now. The
+technique of full immunization is to be employed. Asset I will provide a cash flow of 300,000
+exactly 6 years from now. Asset II will provide a cash flow of X, exactly y years from now,
+where y > 8.
+The annual effective interest rate is 4%.
+
+
+Calculate X.
+
+
+       (A)     697,100
+       (B)     698,600
+       (C)     700,000
+       (D)     701,500
+       (E)     702,900
+
+
+
+
+                                                                                                61

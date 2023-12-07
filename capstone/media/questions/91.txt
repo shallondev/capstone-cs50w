@@ -1,0 +1,18 @@
+An insurance company purchases a perpetuity-due providing a geometric series of quarterly
+payments for a price of 100,000 based on an annual effective interest rate of i. The first and
+second quarterly payments are 2000 and 2010, respectively.
+
+
+Calculate i.
+
+
+       (A)     10.0%
+       (B)     10.2%
+       (C)     10.4%
+       (D)     10.6%
+       (E)     10.8%
+
+
+
+
+                                                                                                 49

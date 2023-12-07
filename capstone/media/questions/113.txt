@@ -1,0 +1,19 @@
+Which of the following statements regarding immunization are true?
+       I.      If long-term interest rates are lower than short-term rates, the need for
+               immunization is reduced.
+       II.     Either Macaulay or modified duration can be used to develop an immunization
+               strategy.
+       III.    Both processes of matching the present values of the flows or the flows
+               themselves will produce exact matching.
+
+
+       (A)     I only
+       (B)     II only
+       (C)     III only
+       (D)     I, II and III
+       (E)     The correct answer is not given by (A), (B), (C), or (D).
+
+
+
+
+                                                                                                  60

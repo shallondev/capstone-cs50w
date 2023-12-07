@@ -1,0 +1,21 @@
+Anderson Bank offers a five-year loan. It is repaid with a single payment of principal and
+interest at time five. Anderson wants to receive an annual rate of 5% compounded continuously
+to reflect deferred compensation. For-this loan, the percentage of borrowers that will default is
+0.7%. For the loans where there are defaults, Anderson Bank will be able to recover 30% of the
+amount owed after five years.
+Let δ be the credit spread calculated as an annual rate compounded continuously that Anderson
+Bank needs to charge.
+
+
+Calculate 1000δ .
+
+
+       A.      0.68
+       B.      0.78
+       C.      0.88
+       D.      0.98
+       E.      1.08
+
+
+
+                                                                                                95

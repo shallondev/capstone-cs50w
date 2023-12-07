@@ -1,0 +1,29 @@
+You are given the following prices for a zero coupon bond that matures for 1 on the maturity
+date:
+ Maturity Date         Price
+    1 year             0.965
+   2 years             0.920
+   3 years             0.875
+   4 years             0.825
+   5 years             0.770
+
+Josh and Phillip enter into a four year swap with a notional amount of 200,000. The swap has
+annual settlement periods. Under the swap, Josh will pay Phillip the fixed swap rate at the end of
+each year while Phillip will pay Josh the variable rate where the variable rate is the one year spot
+rate at the beginning of each year.
+
+
+Determine the net swap payment at the end of the first year.
+
+
+       A.      Josh pays 2509
+       B.      Josh pays 3309
+       C.      Phillip pays 1709
+       D.      Phillip pays 2509
+       E.      Phillip pays 3309
+
+
+
+
+                                                                                               102
+

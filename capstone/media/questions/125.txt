@@ -1,0 +1,18 @@
+For a given interest rate i > 0, the present value of a 20-year continuous annuity of one dollar per
+year is equal to 1.5 times the present value of a 10-year continuous annuity of one dollar per
+year.
+
+
+Calculate the accumulated value of a 7-year continuous annuity of one dollar per year.
+
+
+       (A)     5.36
+       (B)     5.55
+       (C)     8.70
+       (D)     9.01
+       (E)     9.33
+
+
+
+
+                                                                                                 67

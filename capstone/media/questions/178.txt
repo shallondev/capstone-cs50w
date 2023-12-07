@@ -1,0 +1,15 @@
+Porter makes three-year loans that include inflation protection. The annual interest rate
+compounded continuously that must be paid is 3.2% plus the rate of inflation.
+The U.S. government borrows 100,000 for three years from Porter. The actual annual inflation
+rate during the first year was 2.4% compounded continuously. The actual annual inflation rates
+for the second and third years respectively was 2.8% and 4.2% compounded continuously.
+The U.S. government is considered a risk free borrower, which means there is no chance of
+default.
+Calculate the amount that the U.S. government will owe Porter at the end of three years.
+
+
+       A.      120,560
+       B.      120,740
+       C.      120,925
+       D.      121,125
+       E.      122,250

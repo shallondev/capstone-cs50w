@@ -1,0 +1,22 @@
+SOA Life Insurance Life Insurance Company has a portfolio of two bonds:
+   •   Bond 1 is a bond with a Macaulay duration of 7.28 and a price of 35,000; and
+   •   Bond 2 is a bond with a Macaulay duration of 12.74 and a price of 65,000.
+The price and Macaulay duration for both bonds were calculated using an annual effective
+interest rate of 4.32%
+Bailey estimates the value of this portfolio at an interest rate of i using the first-order Macaulay
+approximation to be 105,000.
+
+
+Determine i.
+
+
+       A.      3.49%
+       B.      3.62%
+       C.      3.85%
+       D.      3.92%
+       E.      4.03%
+
+
+
+
+                                                                                                   93

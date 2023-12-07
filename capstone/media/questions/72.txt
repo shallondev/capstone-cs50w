@@ -1,0 +1,27 @@
+You are given:
+
+
+i)        F = the amount in a fund at the beginning of the year
+ii)       There are n cash flows during the year, where each cash flow, Ck , k = 1, 2, , n is made
+          at time tk , 0 < t ≤ 1 .
+iii)      I = the amount of interest earned during the year.
+
+
+Consider the formula
+                  I
+i=          n
+                            .
+       F + ∑ Ck (1 − tk )
+           k =1
+
+
+
+
+Determine which of the following conditions produces i closest to the annual effective yield rate.
+
+
+          (A)         When each cash flow is small relative to F
+          (B)         When each cash flow is large relative to F
+          (C)         When each cash flow is large relative to I
+          (D)         When the cash flows all have the same sign
+          (E)         When the timing of cash flows is uniform throughout the year

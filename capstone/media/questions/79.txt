@@ -1,0 +1,23 @@
+College tuition is 6000 for the current school year, payable in full at the beginning of the school
+year. College tuition will grow at an annual rate of 5%. A parent sets up a college savings fund
+earning interest at an annual effective rate of 7%. The parent deposits 750 at the beginning of
+each school year for 18 years, with the first deposit made at the beginning of the current school
+year. Immediately following the 18th deposit, the parent pays tuition for the 18th school year
+from the fund.
+The amount of money needed, in addition to the balance in the fund, to pay tuition at the
+beginning of the 19th school year is X.
+
+
+Calculate X.
+
+
+       (A)     1439
+       (B)     1545
+       (C)     1664
+       (D)     1785
+       (E)     1870
+
+
+
+
+                                                                                                   42

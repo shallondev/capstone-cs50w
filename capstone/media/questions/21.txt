@@ -1,0 +1,17 @@
+You have decided to invest in Bond X, an n-year bond with semi-annual coupons and the
+following characteristics:
+      (i)           Par value is 1000.
+      (ii)          The ratio of the semi-annual coupon rate, r, to the desired semi-annual yield rate, i, is
+                    1.03125.
+      (iii)         The present value of the redemption value is 381.50.
+
+
+Given (1 + i ) − n =
+                   0.5889 , calculate the price of bond X.
+
+
+              (A)     1019
+              (B)     1029
+              (C)     1050
+              (D)     1055
+              (E)     1072

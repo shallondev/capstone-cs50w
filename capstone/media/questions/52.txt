@@ -1,0 +1,13 @@
+A 40-year bond is purchased at a discount. The bond pays annual coupons. The amount for
+accumulation of discount in the 15th coupon is 194.82. The amount for accumulation of discount
+in the 20th coupon is 306.69.
+
+
+Calculate the amount of discount in the purchase price of this bond.
+
+
+       (A)     13,635
+       (B)     13,834
+       (C)     16,098
+       (D)     19,301
+       (E)     21,135

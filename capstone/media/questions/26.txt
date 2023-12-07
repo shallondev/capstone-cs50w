@@ -1,0 +1,20 @@
+Bruce and Robbie each open up new bank accounts at time 0. Bruce deposits 100 into his bank
+account, and Robbie deposits 50 into his. Each account earns the same annual effective interest
+rate.
+The amount of interest earned in Bruce's account during the 11th year is equal to X. The amount
+of interest earned in Robbie's account during the 17th year is also equal to X.
+
+
+Calculate X.
+
+
+       (A)     28.00
+       (B)     31.30
+       (C)     34.60
+       (D)     36.70
+       (E)     38.90
+
+
+
+
+                                                                                                 15

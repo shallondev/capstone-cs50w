@@ -1,0 +1,16 @@
+Consider two 30-year bonds with the same purchase price. Each has an annual coupon rate of
+5% paid semiannually and a par value of 1000.
+The first bond has an annual nominal yield rate of 5% compounded semiannually, and a
+redemption value of 1200.
+The second bond has an annual nominal yield rate of j compounded semiannually, and a
+redemption value of 800.
+
+
+Calculate j.
+
+
+       (A)     2.20%
+       (B)     2.34%
+       (C)     3.53%
+       (D)     4.40%
+       (E)     4.69%

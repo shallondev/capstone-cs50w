@@ -1,0 +1,25 @@
+Which of the following is an expression for the present value of a perpetuity with annual
+payments of 1, 2, 3, …, where the first payment will be made at the end of n years, using an
+annual effective interest rate of i?
+
+
+                an − nv n
+       (A)
+                         i
+                n − an
+       (B)
+                     i
+                vn
+       (C)
+                d
+                vn
+       (D)
+                d2
+                vn
+       (E)
+                di
+
+
+
+
+                                                                                                  66

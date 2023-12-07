@@ -1,0 +1,15 @@
+Jennifer establishes an investment account to pay for college expenses for her daughter. She
+plans to invest X at the beginning of each month for the next 21 years. Beginning at the end of
+the 18th year, she will withdraw 20,000 annually. The final withdrawal at the end of the 21st
+year will exhaust the account. She anticipates earning an annual effective yield of 8% on the
+investment.
+
+
+Calculate X.
+
+
+       (A)     137.90
+       (B)     142.80
+       (C)     146.40
+       (D)     150.60
+       (E)     154.30

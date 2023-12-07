@@ -1,0 +1,20 @@
+An n-year bond with annual coupons has the following characteristics:
+       i)      The redemption value at maturity is 1890;
+       ii)     The annual effective yield rate is 6%;
+       iii)    The book value immediately after the third coupon is 1254.87; and
+       iv)     The book value immediately after the fourth coupon is 1277.38.
+
+
+Calculate n.
+
+
+       (A)     16
+       (B)     17
+       (C)     18
+       (D)     19
+       (E)     20
+
+
+
+
+                                                                                            56

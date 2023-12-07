@@ -1,0 +1,20 @@
+John borrows 10,000 for 10 years at an annual effective interest rate of 10%. He can repay this
+loan using the amortization method with payments of 1,627.45 at the end of each year. Instead,
+John repays the 10,000 using a sinking fund that pays an annual effective interest rate of 14%.
+The deposits to the sinking fund are equal to 1,627.45 minus the interest on the loan and are
+made at the end of each year for 10 years.
+
+
+Calculate the balance in the sinking fund immediately after repayment of the loan.
+
+
+       (A)     2,130
+       (B)     2,180
+       (C)     2,230
+       (D)     2,300
+       (E)     2,370
+
+
+
+
+                                                                                                    3

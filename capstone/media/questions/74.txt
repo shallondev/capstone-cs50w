@@ -1,0 +1,14 @@
+John made a deposit of 1000 into a fund at the beginning of each year for 20 years.
+At the end of 20 years, he began making semiannual withdrawals of 3000 at the beginning of
+each six months, with a smaller final withdrawal to exhaust the fund. The fund earned an annual
+effective interest rate of 8.16%.
+
+
+Calculate the amount of the final withdrawal.
+
+
+       (A)     561
+       (B)     1226
+       (C)     1430
+       (D)     1488
+       (E)     2240

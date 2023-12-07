@@ -1,0 +1,14 @@
+Toby purchased a 20-year par value bond with semiannual coupons of 40 and a redemption value
+of 1100. The bond can be called at 1200 on any coupon date prior to maturity, starting at the end
+of year 15.
+
+
+Calculate the maximum price of the bond to guarantee that Toby will earn an annual nominal
+interest rate of at least 6% convertible semiannually.
+
+
+       (A)     1251
+       (B)     1262
+       (C)     1278
+       (D)     1286
+       (E)     1295

@@ -1,0 +1,13 @@
+Jia Wen has a liability of 12,000 due in eight years. This liability will be met with payments of
+5000 in five years and B in 8 + b years. Jia Wen is employing a full immunization strategy using
+an annual effective interest rate of 3%.
+             B
+Calculate      .
+             b
+
+
+       (A)         2807
+       (B)         2873
+       (C)         2902
+       (D)         2976
+       (E)         3019

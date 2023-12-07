@@ -1,0 +1,24 @@
+You are given the following information about a company's liabilities:
+   •   Present value: 9697
+   •   Macaulay duration: 15.24
+   •   Macaulay convexity: 242.47
+
+The company decides to create an investment portfolio by making investments into two of the
+following three zero-coupon bonds: 5-year, 15-year, and 20-year. The company would like its
+position to be Redington immunized against small changes in yield rate.
+The annual effective yield rate for each of the bonds is 7.5%.
+
+
+Determine which of the following portfolios the company should create.
+
+
+       (A)     Invest 3077 for the 5-year bond and 6620 for the 20-year bond.
+       (B)     Invest 6620 for the 5-year bond and 3077 for the 20-year bond.
+       (C)     Invest 465 for the 15-year bond and 9232 for the 20-year bond.
+       (D)     Invest 4156 for the 15-year bond and 5541 for the 20-year bond.
+       (E)     Invest 9232 for the 15-year bond and 465 for the 20-year bond.
+
+
+
+
+                                                                                              63

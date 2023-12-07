@@ -1,0 +1,19 @@
+Kathryn deposits 100 into an account at the beginning of each 4-year period for 40 years. The
+account credits interest at an annual effective interest rate of i.
+The accumulated amount in the account at the end of 40 years is X, which is 5 times the
+accumulated amount in the account at the end of 20 years.
+
+
+Calculate X.
+
+
+       (A)      4695
+       (B)      5070
+       (C)      5445
+       (D)      5820
+       (E)      6195
+
+
+
+
+                                                                                                 2

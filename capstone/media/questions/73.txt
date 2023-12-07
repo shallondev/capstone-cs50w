@@ -1,0 +1,16 @@
+On January 1, a fund is worth 100,000. On May 1, the value has increased to 120,000 and then
+30,000 of new principal is deposited. On November 1, the value has declined to 130,000 and
+then 50,000 is withdrawn. On January 1 of the following year, the fund is again worth 100,000.
+
+
+Calculate the time-weighted rate of return.
+
+
+          (A)          0.00%
+          (B)         17.91%
+          (C)         25.00%
+          (D)         29.27%
+          (E)         30.00%
+
+
+                                                                                                  39

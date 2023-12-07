@@ -1,0 +1,19 @@
+James has the choice of the following two Treasury Bills:
+   •   A Government of Canada Treasury Bill for 98,000. The Canadian Treasury Bill matures
+       in 120 days for 100,000.
+   •   A U.S. Treasury Bill for 98,000. The U.S. Treasury Bill matures in 120 days for
+       100,000.
+
+
+Which of the following statements is NOT true.
+
+
+       A.      The quoted rate for the Government of Canada Treasury Bill is 6.2075%.
+       B.      The quoted rate for the Government of Canada Treasury Bill exceeds the quoted
+               rate for the U.S. Treasury Bill.
+       C.      The annual effective yield rate earned by the Government of Canada Treasury Bill
+               is equal to the annual effective yield rate earned by the U.S. Treasury Bill.
+       D.      The annual effective interest rate earned by the Government of Canada Treasury
+               Bill is less than the quoted rate on the Government of Canada Treasury Bill
+       E.      The annual effective interest rate earned by the U.S. Treasury Bill is greater than
+               the quoted rate on the U.S. Treasury Bill.

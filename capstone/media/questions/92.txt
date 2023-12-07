@@ -1,0 +1,19 @@
+A perpetuity provides for continuous payments. The annual rate of payment at time t is
+1,              for 0 ≤ t < 10,
+ 
+ (1.03)
+          t −10
+                  for t ≥ 10.
+
+Using an annual effective interest rate of 6%, the present value at time t = 0 of this perpetuity is
+x.
+
+
+Calculate x.
+
+
+          (A)       27.03
+          (B)       30.29
+          (C)       34.83
+          (D)       38.64
+          (E)       42.41

@@ -1,0 +1,20 @@
+You are given the following information about a 20-year bond with face amount 7500:
+       i)      The bond has an annual coupon rate of 7.4% paid semiannually.
+       ii)     The purchase price results in an annual nominal yield rate to the investor of 5.3%
+               convertible semiannually.
+       iii)    The amount for amortization of premium in the fourth coupon payment is 28.31.
+
+
+Calculate the redemption value of the bond.
+
+
+       (A)     7660
+       (B)     7733
+       (C)     7795
+       (D)     7879
+       (E)     7953
+
+
+
+
+                                                                                                    82

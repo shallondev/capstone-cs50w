@@ -1,0 +1,14 @@
+An investor owns a bond that is redeemable for 250 in 6 years from now. The investor has just
+received a coupon of c and each subsequent semiannual coupon will be 2% larger than the
+preceding coupon. The present value of this bond immediately after the payment of the coupon
+is 582.53 assuming an annual effective yield rate of 4%.
+
+
+Calculate c.
+
+
+       (A)     32.04
+       (B)     32.68
+       (C)     40.22
+       (D)     48.48
+       (E)     49.45

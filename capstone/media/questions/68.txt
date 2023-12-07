@@ -1,0 +1,13 @@
+On January 1, an investment fund was opened with an initial balance of 5000. Just after the
+balance grew to 5200 on July 1, an additional 2600 was deposited.
+The annual effective yield rate for this fund was 9.00% over the calendar year.
+
+
+Calculate the time-weighted rate of return for the year.
+
+
+        (A)     7.43%
+        (B)     8.86%
+        (C)     9.00%
+        (D)     9.17%
+        (E)     10.45%

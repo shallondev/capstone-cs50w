@@ -1,0 +1,16 @@
+A borrower took out a loan of 100,000 and promised to repay it with a payment at the end of
+each year for 30 years.
+The amount of each of the first ten payments equals the amount of interest due. The amount of
+each of the next ten payments equals 150% of the amount of interest due. The amount of each of
+the last ten payments is X.
+The lender charges interest at an annual effective rate of 10%.
+
+
+Calculate X.
+
+
+       (A)      3,204
+       (B)      5,675
+       (C)      7,073
+       (D)      9,744
+       (E)     11,746

@@ -1,0 +1,22 @@
+You are given the following information about an n-year bond, where n > 10:
+       i)        The bond pays 8% semiannual coupons and has face amount 1000.
+       ii)       The bond is redeemable at par.
+       iii)      The bond is callable at par 5 years after issue or 10 years after issue.
+       iv)       P is the price to guarantee a yield of 6.8% convertible semiannually and Q is the
+                 price to guarantee a yield of 8.8% convertible semiannually.
+       v)        |P – Q| = 123.36.
+
+
+Calculate n.
+
+
+       (A)       11
+       (B)       15
+       (C)       19
+       (D)       22
+       (E)       26
+
+
+
+
+                                                                                                 84

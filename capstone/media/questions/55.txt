@@ -1,0 +1,17 @@
+Kylie bought a 7-year, 5000 par value bond with an annual coupon rate of 7.6% paid
+semiannually. She bought the bond with no premium or discount.
+
+
+Calculate the Macaulay duration of this bond with respect to the yield rate on the bond.
+
+
+       (A)     5.16
+       (B)     5.35
+       (C)     5.56
+       (D)     5.77
+       (E)     5.99
+
+
+
+
+                                                                                           30

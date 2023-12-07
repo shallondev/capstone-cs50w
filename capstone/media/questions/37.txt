@@ -1,0 +1,17 @@
+You are given the following information about an investment account:
+      (i)          The value on January 1 is 10.
+      (ii)         The value on July 1, prior to a deposit being made, is 12.
+      (iii)        On July 1, a deposit of X is made.
+      (iv)         The value on December 31 is X.
+Over the year, the time-weighted return is 0%, and the dollar-weighted (money-weighted) return
+is Y.
+
+
+Calculate Y.
+
+
+             (A)      -25%
+             (B)      -10%
+             (C)      0%
+             (D)      10%
+             (E)      25%

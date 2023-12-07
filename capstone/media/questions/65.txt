@@ -1,0 +1,21 @@
+A borrower takes out a 15-year loan for 400,000, with level end-of-month payments, at an annual
+nominal interest rate of 9% convertible monthly.
+Immediately after the 36th payment, the borrower decides to refinance the loan at an annual
+nominal interest rate of j, convertible monthly. The remaining term of the loan is kept at twelve
+years, and level payments continue to be made at the end of the month. However, each payment
+is now 409.88 lower than each payment from the original loan.
+
+
+Calculate j.
+
+
+         (A)     4.72%
+         (B)     5.75%
+         (C)     6.35 %
+         (D)     6.90%
+         (E)     9.14%
+
+
+
+
+                                                                                               35

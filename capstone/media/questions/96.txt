@@ -1,0 +1,16 @@
+You are given the following information about an eleven-year loan of L to be repaid by the
+sinking fund method:
+       i)      The sinking fund earns an annual effective interest rate of 4.70%.
+       ii)     Immediately following the seventh payment and deposit, the difference between
+               what is owed to the lender on the loan and the accumulated value of the sinking
+               fund is 6241.
+
+
+Calculate the sinking fund deposit.
+
+
+       (A)     1019
+       (B)     1055
+       (C)     1067
+       (D)     1084
+       (E)     1104

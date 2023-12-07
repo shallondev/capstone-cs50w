@@ -1,0 +1,20 @@
+An investor borrows 3000 for four years at an annual effective interest rate of i. The investor
+pays interest at the end of each year and accumulates the amount necessary to repay the principal
+at the end of four years by making level payments at the end of each year into a sinking fund.
+The sinking fund earns an annual effective interest rate of 8%. The total annual payment,
+including both interest on the loan and sinking fund deposit, is 965.76.
+
+
+Calculate i.
+
+
+       (A)      8.00%
+       (B)      9.00%
+       (C)     10.00%
+       (D)     10.90%
+       (E)     11.64%
+
+
+
+
+                                                                                                   79

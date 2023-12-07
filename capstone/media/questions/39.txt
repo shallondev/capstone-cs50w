@@ -1,0 +1,17 @@
+Bill buys a 10-year 1000 par value bond with semi-annual coupons paid at an annual rate of 6%.
+The price assumes an annual nominal yield of 6%, compounded semi-annually.
+As Bill receives each coupon payment, he immediately puts the money into an account earning
+interest at an annual effective rate of i.
+At the end of 10 years, immediately after Bill receives the final coupon payment and the
+redemption value of the bond, Bill has earned an annual effective yield of 7% on his investment
+in the bond.
+
+
+Calculate i.
+
+
+       (A)     9.50%
+       (B)     9.75%
+       (C)     10.00%
+       (D)     10.25%
+       (E)     10.50%

@@ -1,0 +1,13 @@
+A company has liabilities of 573 due at the end of year 2 and 701 due at the end of year 5.
+A portfolio comprises two zero-coupon bonds, Bond A and Bond B.
+
+
+Determine which portfolio produces a Redington immunization of the liabilities using an annual
+effective interest rate of 7.0%.
+
+
+(A)    Bond A: 1-year, current price 500; Bond B: 6-years, current price 500
+(B)    Bond A: 1-year, current price 572; Bond B: 6-years, current price 428
+(C)    Bond A: 3-years, current price 182; Bond B: 4-years, current price 1092
+(D)    Bond A: 3-years, current price 637; Bond B: 4-years, current price 637
+(E)    Bond A: 3.5 years, current price 1000; Bond B: Not used

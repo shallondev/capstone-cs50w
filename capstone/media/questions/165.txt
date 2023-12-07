@@ -1,0 +1,16 @@
+A railroad company is required to pay 79,860, which is due three years from now. The company
+invests 15,000 in a bond with modified duration 1.80, and 45,000 in a bond with modified
+duration Dmod, to Redington immunize its position against small changes in the yield rate.
+The annual effective yield rate for each of the bonds is 10%.
+
+
+Calculate Dmod.
+
+
+       (A)     2.73
+       (B)     3.04
+       (C)     3.34
+       (D)     3.40
+       (E)     3.65
+
+                                                                                               89

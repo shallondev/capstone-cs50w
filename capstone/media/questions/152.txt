@@ -1,0 +1,16 @@
+Claire purchases an eight-year callable bond with a 10% annual coupon rate payable
+semiannually. The bond has a face value of 3000 and a redemption value of 2800.
+The purchase price assumes the bond is called at the end of the fourth year for 2900, and
+provides an annual effective yield of 10.0%.
+Immediately after the first coupon payment is received, the bond is called for 2960. Claire’s
+annual effective yield rate is i.
+
+
+Calculate i.
+
+
+       (A)      9.8%
+       (B)     10.1%
+       (C)     10.8%
+       (D)     11.1%
+       (E)     11.8%

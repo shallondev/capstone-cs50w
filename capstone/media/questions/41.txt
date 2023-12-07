@@ -1,0 +1,45 @@
+Happy and financially astute parents decide at the birth of their daughter that they will need to
+provide 50,000 at each of their daughter’s 18th, 19th, 20th and 21st birthdays to fund her college
+education. They plan to contribute X at each of their daughter’s 1st through 17th birthdays to fund
+the four 50,000 withdrawals. They anticipate earning a constant 5% annual effective interest rate
+on their contributions.
+Let v = 1/1.05 .
+
+
+Determine which of the following equations of value can be used to calculate X.
+
+
+                     17
+       (A)         X∑
+                    = v k 50, 000[v + v 2 + v 3 + v 4 ]
+                     k =1
+
+                     16
+       (B)         X ∑=
+                      1.05k 50, 000[1 + v + v 2 + v 3 ]
+                     k =1
+
+                     17
+       (C)         X ∑=
+                      1.05k 50, 000[1 + v + v 2 + v 3 ]
+                     k =0
+
+                     17
+       (D)         X ∑=
+                      1.05k 50, 000[1 + v + v 2 + v 3 ]
+                     k =1
+
+                     17
+       (E)          ∑ v k 50, 000[v18 + v19 + v 20 + v 21 + v 22 ]
+                   X=
+                     k =0
+
+
+
+
+50.    Deleted
+
+
+
+
+                                                                                                23

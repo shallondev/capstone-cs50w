@@ -1,0 +1,10 @@
+Determine which of the following statements is false with respect to Redington immunization.
+
+
+       (A)     Modified duration may change at different rates for each of the assets and
+               liabilities as time goes by.
+       (B)     Redington immunization requires infrequent rebalancing to keep modified
+               duration of assets equal to modified duration of liabilities.
+       (C)     This technique is designed to work only for small changes in the interest rate.
+       (D)     The yield curve is assumed to be flat.
+       (E)     The yield curve shifts in parallel when the interest rate changes.

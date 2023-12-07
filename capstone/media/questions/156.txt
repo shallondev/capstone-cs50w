@@ -1,0 +1,17 @@
+An insurer enters into a four-year contract today. The contract requires the insured to deposit
+500 into a fund that earns an annual effective rate of 5.0%, and from which all claims will be
+paid. The insurer expects that 100 in claims will be paid at the end of each year, for the next four
+years. At the end of the fourth year, after all claims are paid, the insurer is required to return
+75% of the remaining fund balance to the insured.
+To issue this policy, the insurer incurs 100 in expenses today. It also collects a fee of 125 at the
+end of two years.
+
+
+Calculate the insurer’s yield rate.
+
+
+       (A)       9%
+       (B)     24%
+       (C)     39%
+       (D)     54%
+       (E)     69%

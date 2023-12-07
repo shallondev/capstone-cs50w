@@ -1,0 +1,17 @@
+A life insurance company invests two million in a 10-year zero-coupon bond and four million in
+a 30-year zero-coupon bond. The annual effective yield rate for both bonds is 8%.
+When the 10-year bond matures, the company reinvests the proceeds in another 10-year zero-
+coupon bond. At that time the bond yield rate is 12% annual effective.
+After 20 years from the initial investment, the 30-year bond is sold to yield an annual effective
+rate of 10% to the buyer. The maturity of the second 10-year bond and the sale of the 30-year
+bond result in a gain of X on the company’s initial investment of six million.
+
+
+Calculate X.
+
+
+       (A)     23 million
+       (B)     29 million
+       (C)     32 million
+       (D)     34 million
+       (E)     42 million

@@ -1,0 +1,17 @@
+Seth, Janice, and Lori each borrow 5000 for five years at an annual nominal interest rate of 12%,
+compounded semi-annually.
+Seth has interest accumulated over the five years and pays all the interest and principal in a lump
+sum at the end of five years.
+Janice pays interest at the end of every six-month period as it accrues and the principal at the end
+of five years.
+Lori repays her loan with 10 level payments at the end of every six-month period.
+
+
+Calculate the total amount of interest paid on all three loans.
+
+
+       (A)     8718
+       (B)     8728
+       (C)     8738
+       (D)     8748
+       (E)     8758

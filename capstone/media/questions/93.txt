@@ -1,0 +1,20 @@
+A bank agrees to lend 10,000 now and X three years from now in exchange for a single
+repayment of 75,000 at the end of 10 years. The bank charges interest at an annual effective rate
+                                                               1
+of 6% for the first 5 years and at a force of interest δ t =      for t ≥ 5 .
+                                                             t +1
+
+
+Calculate X.
+
+
+          (A)       23,500
+          (B)       24,000
+          (C)       24,500
+          (D)       25,000
+          (E)       25,500
+
+
+
+
+                                                                                                   50

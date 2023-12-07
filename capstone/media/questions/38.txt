@@ -1,0 +1,18 @@
+Seth borrows X for four years at an annual effective interest rate of 8%, to be repaid with equal
+payments at the end of each year. The outstanding loan balance at the end of the third year is
+559.12.
+
+
+Calculate the principal repaid in the first payment.
+
+
+             (A)      444
+             (B)      454
+             (C)      464
+             (D)      474
+             (E)      484
+
+
+
+
+                                                                                                21

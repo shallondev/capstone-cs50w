@@ -1,0 +1,19 @@
+At an annual effective interest rate of 10.9%, each of the following are equal to X:
+   •   The accumulated value at the end of n years of an n-year annuity-immediate paying 21.80 per
+       year.
+   •   The present value of a perpetuity-immediate paying 19,208 at the end of each n-year period.
+
+
+Calculate X.
+
+
+       (A)     1555
+       (B)     1750
+       (C)     1960
+       (D)     2174
+       (E)     There is not enough information given to calculate X.
+
+
+
+
+                                                                                                     68

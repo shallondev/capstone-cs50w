@@ -1,0 +1,13 @@
+An association had a fund balance of 75 on January 1 and 60 on December 31. At the end of
+every month during the year, the association deposited 10 from membership fees. There were
+withdrawals of 5 on February 28, 25 on June 30, 80 on October 15, and 35 on October 31.
+
+
+Calculate the dollar-weighted (money-weighted) rate of return for the year.
+
+
+       (A)      9.0%
+       (B)      9.5%
+       (C)     10.0%
+       (D)     10.5%
+       (E)     11.0%

@@ -1,0 +1,14 @@
+A perpetuity-due with annual payments consists of ten level payments of X followed by a series
+of increasing payments. Beginning with the eleventh payment, each payment is 1.5% larger than
+the preceding payment.
+Using an annual effective interest rate of 5%, the present value of the perpetuity is 45,000.
+
+
+Calculate X.
+
+
+       (A)     1,679
+       (B)     1,696
+       (C)     1,737
+       (D)     1,763
+       (E)     1,781

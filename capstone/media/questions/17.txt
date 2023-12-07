@@ -1,0 +1,19 @@
+Olga buys a 5-year increasing annuity for X.
+Olga will receive 2 at the end of the first month, 4 at the end of the second month, and for each
+month thereafter the payment increases by 2.
+The annual nominal interest rate is 9% convertible quarterly.
+
+
+Calculate X.
+
+
+       (A)     2680
+       (B)     2730
+       (C)     2780
+       (D)     2830
+       (E)     2880
+
+
+
+
+                                                                                                10

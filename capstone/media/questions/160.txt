@@ -1,0 +1,16 @@
+An investor purchases two bonds. The bonds have the same annual effective yield rate i, with
+i > 0.
+With respect to the annual effective yield rate, their modified durations are a years and b years,
+with 0 < a < b.
+One of these two bonds has a Macaulay duration of c years, with a < c < b.
+
+
+Determine which of the following is an expression, in years, for the Macaulay duration of the
+other bond.
+
+
+       (A)     bc/a
+       (B)     ac/b
+       (C)     ab/c
+       (D)     b+c–a
+       (E)     a+c–b

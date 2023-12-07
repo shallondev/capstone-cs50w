@@ -1,0 +1,16 @@
+An insurance company wants to match liabilities of 25,000 payable in one year and 20,000
+payable in two years with specific assets. The following assets are currently available:
+       i)      One-year bond with an annual coupon of 6.75% at par
+       ii)     Two-year bond with annual coupons of 4.50% at par
+       iii)    Two-year zero-coupon bond yielding 5.00% annual effective
+
+
+Calculate the smallest amount the company needs to disburse today to purchase assets that will
+exactly match these liabilities.
+
+
+       (A)     41,220
+       (B)     41,390
+       (C)     41,560
+       (D)     41,660
+       (E)     41,750

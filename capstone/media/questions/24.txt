@@ -1,0 +1,18 @@
+A perpetuity-immediate pays X per year. Brian receives the first n payments, Colleen receives
+the next n payments, and a charity receives the remaining payments. Brian's share of the present
+value of the original perpetuity is 40%, and the charity’s share is K.
+
+
+Calculate K.
+
+
+             (A)      24%
+             (B)      28%
+             (C)      32%
+             (D)      36%
+             (E)      40%
+
+
+
+
+                                                                                                       14

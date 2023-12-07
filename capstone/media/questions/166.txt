@@ -1,0 +1,17 @@
+A company must pay liabilities of 1000 at the end of year 1 and X at the end of year 2.
+The only investments available are:
+        i)       One-year zero-coupon bonds with an annual effective yield of 5%
+        ii)      Two-year bonds with a par value of 1000 and 10% annual coupons, with
+                 an annual effective yield of 6%
+The company constructed a portfolio that creates an exact cash flow matching strategy for these
+liabilities. The total purchase price of this portfolio is 1783.76.
+
+
+Calculate the amount invested in the one-year zero-coupon bonds.
+
+
+       (A)       784
+       (B)       831
+       (C)       871
+       (D)       915
+       (E)       935

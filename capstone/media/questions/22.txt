@@ -1,0 +1,20 @@
+Project P requires an investment of 4000 today. The investment pays 2000 one year from today
+and 4000 two years from today.
+Project Q requires an investment of X two years from today. The investment pays 2000 today
+and 4000 one year from today.
+The net present values of the two projects are equal at an annual effective interest rate of 10%.
+
+
+Calculate X.
+
+
+             (A)       5400
+             (B)       5420
+             (C)       5440
+             (D)       5460
+             (E)       5480
+
+
+
+
+                                                                                                           13

@@ -1,0 +1,14 @@
+An investor decides to purchase a five-year annuity with an annual nominal interest rate of 12%
+convertible monthly for a price of X.
+Under the terms of the annuity, the investor is to receive 2 at the end of the first month. The
+payments increase by 2 each month thereafter.
+
+
+Calculate X.
+
+
+       (A)     2015
+       (B)     2386
+       (C)     2475
+       (D)     2500
+       (E)     2524

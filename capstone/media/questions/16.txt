@@ -1,0 +1,19 @@
+To accumulate 8000 at the end of 3n years, deposits of 98 are made at the end of each of the first
+n years and 196 at the end of each of the next 2n years.
+The annual effective rate of interest is i. You are given (1 + i ) n =
+                                                                     2.0 .
+
+
+Calculate i.
+
+
+       (A)     11.25%
+       (B)     11.75%
+       (C)     12.25%
+       (D)     12.75%
+       (E)     13.25%
+
+
+
+
+                                                                                                  9

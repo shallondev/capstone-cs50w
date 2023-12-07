@@ -1,0 +1,30 @@
+The current spot interest rate curve is as follows:
+
+                       t               rt              t              rt
+                     0.25            1.50%            1.75          2.40%
+                     0.50            1.65%            2.00          2.48%
+                     0.75            1.79%            2.25          2.80%
+                     1.00            1.92%            2.50          3.10%
+                     1.25            2.10%            2.75          3.35%
+                     1.50            2.25%            3.00          3.50%
+
+Rafael has a one year loan for 1,000,000 with principal paid at the end of the one-year period.
+The loan has a variable interest rate that resets at the beginning of each three month period. The
+interest rate will be the spot interest rate at the beginning of each three month period.
+Rafael enters into an interest rate swap where he is the payer with the characteristics of the swap
+exactly matching the loan.
+
+
+Determine the quarterly swap rate that Rafael will pay.
+
+
+       A.      38 bp
+       B.      43 bp
+       C.      48 bp
+       D.      53 bp
+       E.      58 bp
+
+
+
+
+                                                                                               101

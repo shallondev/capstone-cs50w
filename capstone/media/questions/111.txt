@@ -1,0 +1,17 @@
+Rhonda purchases a perpetuity providing a payment of 1 at the beginning of each year. The
+perpetuity’s Macaulay duration is 30 years.
+
+
+Calculate the modified duration of this perpetuity.
+
+
+       (A)     28.97
+       (B)     29.00
+       (C)     29.03
+       (D)     29.07
+       (E)     29.10
+
+
+
+
+                                                                                              59

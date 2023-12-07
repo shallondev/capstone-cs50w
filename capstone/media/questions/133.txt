@@ -1,0 +1,17 @@
+A family purchases a perpetuity-immediate that provides annual payments that decrease by 0.4%
+each year. The price of the perpetuity is 10,000 at an annual force of interest of 0.06.
+
+
+Calculate the amount of the perpetuity’s first payment.
+
+
+       (A)     604
+       (B)     620
+       (C)     640
+       (D)     658
+       (E)     678
+
+
+
+
+                                                                                                71

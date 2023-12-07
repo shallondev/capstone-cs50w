@@ -1,0 +1,20 @@
+On a given day, the discount rate is 3.65%, the prime rate is 3.55%, the LIBOR is 3.30%, the
+federal funds rate is 3.25%, and the federal funds target rate is 3.20%
+On the same day, Bank XYZ's reserve balance held at the Federal Reserve is lower than the
+reserve requirement, and Bank XYZ needs to borrow funds from those member institutions of
+the Federal Reserve who have excess funds in their reserve. Let x be the rate at which Bank
+XYZ borrows from these excess funds.
+
+
+Determine x.
+
+
+(A)    3.20%
+(B)    3.25%
+(C)    3.30%
+(D)    3.55%
+(E)    3.65%
+
+
+
+                                                                                                   91

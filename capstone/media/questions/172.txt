@@ -1,0 +1,16 @@
+A bond has a modified duration of 8 and a price of 112,955 calculated using an annual effective
+interest rate of 6.4%.
+EMAC is the estimated price of this bond at an interest rate of 7.0% using the first-order Macaulay
+approximation.
+EMOD is the estimated price of this bond at an interest rate of 7.0% using the first-order modified
+approximation.
+
+
+Calculate EMAC − EMOD .
+
+
+       A.        91
+       B.      102
+       C.      116
+       D.      127
+       E.      143

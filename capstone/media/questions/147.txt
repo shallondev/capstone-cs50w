@@ -1,0 +1,18 @@
+A 25-year loan is being repaid with annual payments of 1300 at an annual effective rate of
+interest of 7%. The borrower pays an additional 2600 at the time of the 5th payment and wants
+to repay the remaining balance over 15 years.
+
+
+Calculate the revised annual payment.
+
+
+       (A)     1054.58
+       (B)     1226.65
+       (C)     1300.00
+       (D)     1369.38
+       (E)     1512.12
+
+
+
+
+                                                                                              80

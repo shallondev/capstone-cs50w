@@ -1,0 +1,14 @@
+At time 0, Cheryl deposits X into a bank account that credits interest at an annual effective rate of
+7%. At time 3, Gomer deposits 1000 into a different bank account that credits simple interest at
+an annual rate of y%. At time 5, the annual forces of interest on the two accounts are equal, and
+Gomer’s account has accumulated to Z.
+
+
+Calculate Z.
+
+
+       (A)     1160
+       (B)     1200
+       (C)     1390
+       (D)     1400
+       (E)     1510

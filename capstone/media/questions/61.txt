@@ -1,0 +1,18 @@
+Aakash has a liability of 6000 due in four years. This liability will be met with payments of A in
+two years and B in six years. Aakash is employing a full immunization strategy using an annual
+effective interest rate of 5%.
+
+
+Calculate A − B .
+
+
+       (A)     0
+       (B)     146
+       (C)     293
+       (D)     586
+       (E)     881
+
+
+
+
+                                                                                                 33

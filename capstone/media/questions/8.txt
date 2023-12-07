@@ -1,0 +1,19 @@
+A 20-year loan of 1000 is repaid with payments at the end of each year.
+Each of the first ten payments equals 150% of the amount of interest due. Each of the last ten
+payments is X.
+The lender charges interest at an annual effective rate of 10%.
+
+
+Calculate X.
+
+
+       (A)       32
+       (B)       57
+       (C)       70
+       (D)       97
+       (E)     117
+
+
+
+
+                                                                                                 5

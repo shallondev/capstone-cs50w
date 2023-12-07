@@ -1,0 +1,12 @@
+At an annual effective interest rate of 6%, the present value of a perpetuity immediate with
+successive annual payments of 6, 8, 10, 12, ..., is equal to X.
+
+
+Calculate X.
+
+
+       (A)      100
+       (B)      656
+       (C)      695
+       (D)     1767
+       (E)     2222

@@ -1,0 +1,21 @@
+A common stock pays dividends at the end of each year into perpetuity. Assume that the
+dividend increases by 2% each year.
+
+
+Using an annual effective interest rate of 5%, calculate the Macaulay duration of the stock in
+years.
+
+
+       (A)     27
+       (B)     35
+       (C)     44
+       (D)     52
+       (E)     58
+
+
+38. – 44. deleted
+
+
+
+
+                                                                                                 20

@@ -1,0 +1,21 @@
+A company is considering investing in a particular project. The project requires an investment of
+X today. Additional investments are required at the beginning of each of the next five years,
+with each year’s investment 5% greater than the previous year’s investment.
+The investment is expected to produce an income of 100 per year at the end of each year forever,
+with the first payment expected at the end of the first year.
+At an annual effective interest rate of 10.25%, the project has a net present value of zero.
+
+
+Calculate X.
+
+
+       (A)     183
+       (B)     192
+       (C)     205
+       (D)     215
+       (E)     225
+
+
+
+
+                                                                                               70

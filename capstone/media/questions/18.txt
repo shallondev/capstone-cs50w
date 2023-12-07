@@ -1,0 +1,33 @@
+You are given the following information about the activity in two different investment accounts:
+                                           Account K
+                                         Fund value             Activity
+                        Date           before activity   Deposit   Withdrawal
+                   January 1, 2014         100.0
+                     July 1, 2014          125.0                           X
+                   October 1, 2014         110.0           2X
+                 December 31, 2014         125.0
+
+
+                                           Account L
+                                         Fund value             Activity
+                        Date           before activity   Deposit   Withdrawal
+                   January 1, 2014         100.0
+                     July 1, 2014          125.0                           X
+                 December 31, 2014         105.8
+
+
+During 2014, the dollar-weighted (money-weighted) return for investment account K equals the
+time-weighted return for investment account L, which equals i.
+
+
+Calculate i.
+       (A)     10%
+       (B)     12%
+       (C)     15%
+       (D)     18%
+       (E)     20%
+
+
+
+
+                                                                                              11

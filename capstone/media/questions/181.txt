@@ -1,0 +1,28 @@
+You are given the following spot interest rates:
+   Time (t)     Spot Rate ( rt )
+      1             4.3%
+      2             4.6%
+      3             5.1%
+      4             5.4%
+      5             5.6%
+
+Tommy purchases a deferred interest rate swap with a term of five years. Under the swap, there
+is no swapping of interest rates during the first two years. During the last three years, the
+settlement period will be one year. Under this swap, Tommy will be the payer. The variable
+interest rate will be based on the one year spot rate at the start of each settlement period.
+The notional amount of this swap is 500,000.
+
+
+Calculate the swap rate for this swap.
+
+
+       A.      5.54%
+       B.      5.77%
+       C.      6.04%
+       D.      6.27%
+       E.      6.54%
+
+
+
+
+                                                                                            98

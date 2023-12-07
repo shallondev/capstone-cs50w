@@ -1,0 +1,18 @@
+The one-year forward rates, deferred t years, are estimated to be:
+ Year (t)               0               1                2              3               4
+ Forward Rate          4%              6%               8%            10%             12%
+
+
+Calculate the spot rate for a zero-coupon bond maturing three years from now.
+
+
+       (A)      4%
+       (B)      5%
+       (C)      6%
+       (D)      7%
+       (E)      8%
+
+
+
+
+                                                                                              57

@@ -1,0 +1,20 @@
+Lucas opens a bank account with 1000 and lets it accumulate at an annual nominal interest rate
+of 6% convertible semiannually. Danielle also opens a bank account with 1000 at the same time
+as Lucas, but it grows at an annual nominal interest rate of 3% convertible monthly.
+For each account, interest is credited only at the end of each interest conversion period.
+
+
+Calculate the number of months required for the amount in Lucas’s account to be at least double
+the amount in Danielle’s account.
+
+
+      (A)      276
+      (B)      282
+      (C)      285
+      (D)      286
+      (E)      288
+
+
+
+
+                                                                                             36

@@ -1,0 +1,15 @@
+Bruce deposits 100 into a bank account. His account is credited interest at an annual nominal
+rate of interest of 4% convertible semiannually.
+At the same time, Peter deposits 100 into a separate account. Peter’s account is credited interest
+at an annual force of interest of δ .
+After 7.25 years, the value of each account is the same.
+
+
+Calculate δ .
+
+
+       (A)      0.0388
+       (B)      0.0392
+       (C)      0.0396
+       (D)      0.0404
+       (E)      0.0414

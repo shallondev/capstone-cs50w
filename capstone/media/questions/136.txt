@@ -1,0 +1,18 @@
+A borrower takes out a loan of 4000 at an annual effective interest rate of 6%.
+Starting at the end of the fifth year, the loan is repaid by annual payments, each of which equals
+600 except for a final balloon payment that is less than 1000.
+
+
+Calculate the final balloon payment.
+
+
+       (A)     616
+       (B)     639
+       (C)     642
+       (D)     688
+       (E)     696
+
+
+
+
+                                                                                                73

@@ -1,0 +1,12 @@
+A 1000 par value 20-year bond sells for P and yields a nominal interest rate of 10% convertible
+semiannually. The bond has 9% coupons payable semiannually and a redemption value of 1200.
+
+
+Calculate P.
+
+
+       (A)     914
+       (B)     943
+       (C)     1013
+       (D)     1034
+       (E)     1097

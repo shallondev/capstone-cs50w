@@ -1,0 +1,15 @@
+Graham is the beneficiary of an annuity due. At an annual effective interest rate of 5%, the
+present value of payments is 123,000 and the modified duration is DMOD .
+Tyler uses the first-order Macaulay approximation to estimate the present value of Graham’s
+annuity due at an annual effective interest rate was 5.4%. Tyler estimates the present value to be
+121,212.
+
+
+Calculate DMOD , the modified duration of Graham’s annuity at 5%.
+
+
+       A.      3.67
+       B.      3.75
+       C.      3.85
+       D.      3.95
+       E.      4.04

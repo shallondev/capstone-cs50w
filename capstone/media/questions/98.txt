@@ -1,0 +1,14 @@
+A 5-year loan of 500,000 with an annual effective discount rate of 8% is to be repaid by level
+end-of-year payments.
+If the first four payments had been rounded up to the next multiple of 1,000, the final payment
+would be X.
+
+
+Calculate X.
+
+
+       (A)     103,500
+       (B)     111,700
+       (C)     115,200
+       (D)     125,200
+       (E)     127,500

@@ -1,0 +1,23 @@
+The annual force of interest credited to a savings account is defined by
+
+       t2
+δ t = 1003
+         t
+     3+
+        150
+with t in years. Austin deposits 500 into this account at time 0.
+
+
+Calculate the time in years it will take for the fund to be worth 2000.
+
+
+             (A)      6.7
+             (B)      8.8
+             (C)      14.2
+             (D)      16.5
+             (E)      18.9
+
+
+
+
+                                                                                                       28

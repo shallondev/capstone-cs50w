@@ -1,0 +1,13 @@
+A loan is amortized over five years with monthly payments at an annual nominal interest rate of
+9% compounded monthly. The first payment is 1000 and is to be paid one month from the date
+of the loan. Each succeeding monthly payment will be 2% lower than the prior payment.
+
+
+Calculate the outstanding loan balance immediately after the 40th payment is made.
+
+
+        (A)    6750
+        (B)    6890
+        (C)    6940
+        (D)    7030
+        (E)    7340

@@ -1,0 +1,21 @@
+Seth has two retirement benefit options.
+His first option is to receive a lump sum of 374,500 at retirement.
+His second option is to receive monthly payments for 25 years starting one month after
+retirement. For the first year, the amount of each monthly payment is 2000. For each
+subsequent year, the monthly payments are 2% more than the monthly payments from the
+previous year.
+Using an annual nominal interest rate of 6%, compounded monthly, the present value of the
+second option is P.
+
+
+Determine which of the following is true.
+
+
+(A)    P is 323,440 more than the lump sum option amount.
+(B)    P is 107,170 more than the lump sum option amount.
+(C)    The lump sum option amount is equal to P.
+(D)    The lump sum option amount is 60 more than P.
+(E)    The lump sum option amount is 64,090 more than P.
+
+
+                                                                                            44

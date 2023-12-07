@@ -1,0 +1,18 @@
+A 20-year bond priced to have an annual effective yield of 10% has a Macaulay duration of 11.
+Immediately after the bond is priced, the market yield rate increases by 0.25%. The bond's
+approximate percentage price change, using a first-order Macaulay approximation, is X.
+
+
+Calculate X.
+
+
+(A)     –2.22%
+(B)     –2.47%
+(C)     –2.50%
+(D)     –2.62%
+(E)     –2.75%
+
+
+
+
+                                                                                                 87

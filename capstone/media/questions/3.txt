@@ -1,0 +1,15 @@
+Eric deposits 100 into a savings account at time 0, which pays interest at an annual nominal rate
+of i, compounded semiannually.
+Mike deposits 200 into a different savings account at time 0, which pays simple interest at an
+annual rate of i.
+Eric and Mike earn the same amount of interest during the last 6 months of the 8th year.
+
+
+Calculate i.
+
+
+       (A)     9.06%
+       (B)     9.26%
+       (C)     9.46%
+       (D)     9.66%
+       (E)     9.86%

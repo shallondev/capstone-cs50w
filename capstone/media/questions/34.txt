@@ -1,0 +1,17 @@
+The current price of an annual coupon bond is 100. The yield to maturity is an annual effective
+rate of 8%. The derivative of the price of the bond with respect to the yield to maturity is -700.
+
+
+Using the bond’s yield rate, calculate the Macaulay duration of the bond in years.
+
+
+             (A)      7.00
+             (B)      7.49
+             (C)      7.56
+             (D)      7.69
+             (E)      8.00
+
+
+
+
+                                                                                                  19

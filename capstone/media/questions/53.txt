@@ -1,0 +1,18 @@
+Tanner takes out a loan today and repays the loan with eight level annual payments, with the first
+payment one year from today. The payments are calculated based on an annual effective interest
+rate of 4.75%. The principal portion of the fifth payment is 699.68.
+
+
+Calculate the total amount of interest paid on this loan.
+
+
+       (A)     1239
+       (B)     1647
+       (C)     1820
+       (D)     2319
+       (E)     2924
+
+
+
+
+                                                                                               29

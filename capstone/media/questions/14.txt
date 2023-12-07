@@ -1,0 +1,21 @@
+A 10-year loan of 2000 is to be repaid with payments at the end of each year. It can be repaid
+under the following two options:
+      (i)          Equal annual payments at an annual effective interest rate of 8.07%.
+      (ii)         Installments of 200 each year plus interest on the unpaid balance at an annual
+                   effective interest rate of i.
+The sum of the payments under option (i) equals the sum of the payments under option (ii).
+
+
+Calculate i.
+
+
+             (A)      8.75%
+             (B)      9.00%
+             (C)      9.25%
+             (D)      9.50%
+             (E)      9.75%
+
+
+
+
+                                                                                                    8

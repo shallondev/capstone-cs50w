@@ -1,0 +1,15 @@
+A company owes 500 and 1000 to be paid at the end of year one and year four, respectively. The
+company will set up an investment program to match the duration and the present value of the
+above obligation using an annual effective interest rate of 10%.
+The investment program produces asset cash flows of X today and Y in three years.
+
+
+Calculate X and determine whether the investment program satisfies the conditions for Redington
+immunization.
+
+
+       (A)     X = 75 and the Redington immunization conditions are not satisfied.
+       (B)     X = 75 and the Redington immunization conditions are satisfied.
+       (C)     X = 1138 and the Redington immunization conditions are not satisfied.
+       (D)     X = 1138 and the Redington immunization conditions are satisfied.
+       (E)     X = 1414 and the Redington immunization conditions are satisfied.

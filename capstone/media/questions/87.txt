@@ -1,0 +1,20 @@
+Jack inherited a perpetuity-due, with annual payments of 15,000. He immediately exchanged the
+perpetuity for a 25-year annuity-due having the same present value. The annuity-due has annual
+payments of X.
+All the present values are based on an annual effective interest rate of 10% for the first 10 years
+and 8% thereafter.
+
+
+Calculate X.
+
+
+       (A)     16,942
+       (B)     17,384
+       (C)     17,434
+       (D)     17,520
+       (E)     18,989
+
+
+
+
+                                                                                                  47

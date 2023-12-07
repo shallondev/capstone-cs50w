@@ -1,0 +1,20 @@
+Seth repays a 30-year loan with a payment at the end of each year. Each of the first 20 payments
+is 1200, and each of the last 10 payments is 900. Interest on the loan is at an annual effective
+rate of i, i > 0. The interest portion of the 11th payment is twice the interest portion of the 21st
+payment.
+
+
+Calculate the interest portion of the 21st payment.
+
+
+       (A)     250
+       (B)     275
+       (C)     300
+       (D)     325
+       (E)     There is not enough information to calculate the interest portion of the 21st
+               payment.
+
+
+
+
+                                                                                                 78

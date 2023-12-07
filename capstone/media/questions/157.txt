@@ -1,0 +1,19 @@
+On January 1, an investor placed 4000 in a fund.
+The balance grew to 4320 on July 1. The investor then deposited an amount X.
+After the deposit, the balance increased by 9% from July 1 to December 31.
+
+
+What is the effect on the annual effective yield rate and the time-weighted rate of return of
+increasing the value of X?
+
+
+       (A)     The yield rate increases; the time-weighted rate remains unchanged.
+       (B)     The yield rate increases; the time-weighted rate increases.
+       (C)     The yield rate decreases; the time-weighted rate increases.
+       (D)     The yield rate decreases; the time-weighted rate decreases.
+       (E)     The yield rate decreases; the time-weighted rate remains unchanged.
+
+
+
+
+                                                                                                  85

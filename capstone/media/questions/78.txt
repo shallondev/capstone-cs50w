@@ -1,0 +1,15 @@
+A borrower takes out a 15-year loan for 65,000, with level end-of-month payments. The annual
+nominal interest rate of the loan is 8%, convertible monthly.
+Immediately after the 12th payment is made, the remaining loan balance is reamortized. The
+maturity date of the loan remains unchanged, but the annual nominal interest rate of the loan is
+changed to 6%, convertible monthly.
+
+
+Calculate the new end-of-month payment.
+
+
+       (A)     528
+       (B)     534
+       (C)     540
+       (D)     546
+       (E)     552

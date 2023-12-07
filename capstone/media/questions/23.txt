@@ -1,0 +1,16 @@
+A 20-year loan of 20,000 may be repaid under the following two methods:
+      (i)          amortization method with equal annual payments at an annual effective interest rate
+                   of 6.5%
+      (ii)         sinking fund method in which the lender receives an annual effective interest rate of
+                   8% and the sinking fund earns an annual effective interest rate of j
+Both methods require a payment of X to be made at the end of each year for 20 years.
+
+
+Calculate j.
+
+
+             (A)      6.4%
+             (B)      7.6%
+             (C)      8.8%
+             (D)      11.2%
+             (E)      14.2%

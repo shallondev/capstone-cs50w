@@ -1,0 +1,19 @@
+A company has liabilities of 402.11 due at the end of each of the next three years. The company
+will invest 1000 today to fund these payouts. The only investments available are one-year and
+three-year zero-coupon bonds, and the yield curve is flat at a 10% annual effective rate. The
+company wishes to match the duration of its assets to the duration of its liabilities.
+
+
+Determine how much the company should invest in each bond.
+
+
+       (A)     366 in the one-year bond and 634 in the three-year bond.
+       (B)     484 in the one-year bond and 516 in the three-year bond.
+       (C)     500 in the one-year bond and 500 in the three-year bond.
+       (D)     532 in the one-year bond and 468 in the three-year bond.
+       (E)     634 in the one-year bond and 366 in the three-year bond.
+
+
+
+
+                                                                                              62

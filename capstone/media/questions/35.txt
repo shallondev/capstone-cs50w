@@ -1,0 +1,11 @@
+A common stock pays a constant dividend at the end of each year into perpetuity.
+
+
+Using an annual effective interest rate of 10%, calculate the Macaulay duration of the stock.
+
+
+       (A)     7 years
+       (B)     9 years
+       (C)     11 years
+       (D)     19 years
+       (E)     27 years

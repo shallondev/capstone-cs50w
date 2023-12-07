@@ -1,0 +1,20 @@
+A liability consists of a series of 15 annual payments of 35,000 with the first payment to be made
+one year from now.
+The assets available to immunize this liability are five-year and ten-year zero-coupon bonds.
+The annual effective interest rate used to value the assets and the liability is 6.2%. The liability
+has the same present value and duration as the asset portfolio.
+
+
+Calculate the amount invested in the five-year zero-coupon bonds.
+
+
+       (A)     127,000
+       (B)     167,800
+       (C)     208,600
+       (D)     247,900
+       (E)     292,800
+
+
+
+
+                                                                                                   27

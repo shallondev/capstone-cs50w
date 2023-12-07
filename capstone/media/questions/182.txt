@@ -1,0 +1,30 @@
+Miaoqi and Nui entered into a four year interest rate swap on May 5, 2015. The notional amount
+of the swap was a level 250,000 for all four years. The swap has annual settlement periods with
+the first period starting on May 5, 2015.
+Under the swap, Miaoqi agreed to pay a variable rate based on the one year spot rate at the
+beginning of each settlement period. Nui will pay Miaoqi the fixed rate of 4% on each
+settlement date.
+On May 5, 2017, the spot interest rate curve was as follows:
+   Time (t)     Spot Rate ( rt )
+      1             3.8%
+      2             4.1%
+      3             4.3%
+      4             4.5%
+      5             4.7%
+
+Miaoqi decides that she wants to sell the swap on May 5, 2017.
+
+
+Calculate the market value of the swap on May 5, 2017, from Miaoqi’s position in the swap.
+
+
+       A.      – 443
+       B.      – 251
+       C.       251
+       D.       438
+       E.       443
+
+
+
+
+                                                                                              99

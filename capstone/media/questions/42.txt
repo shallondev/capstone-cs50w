@@ -1,0 +1,14 @@
+Joe must pay liabilities of 1,000 due 6 months from now and another 1,000 due one year from
+now. There are two available investments:
+Bond I: A 6-month bond with face amount of 1,000, an 8% nominal annual coupon rate
+convertible semiannually, and a 6% nominal annual yield rate convertible semiannually;
+Bond II: A one-year bond with face amount of 1,000, a 5% nominal annual coupon rate
+convertible semiannually, and a 7% nominal annual yield rate convertible semiannually.
+
+
+Calculate the amount of each bond that Joe should purchase to exactly match the liabilities.
+       (A)     Bond I – 1, Bond II – 0.97561
+       (B)     Bond I – 0.93809, Bond II – 1
+       (C)     Bond I – 0.97561, Bond II – 0.94293
+       (D)     Bond I – 0.93809, Bond II – 0.97561
+       (E)     Bond I – 0.98345, Bond II – 0.97561

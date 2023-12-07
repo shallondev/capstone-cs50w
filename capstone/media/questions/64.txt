@@ -1,0 +1,17 @@
+You are given the following information about two bonds, Bond A and Bond B:
+      i) Each bond is a 10-year bond with semiannual coupons redeemable at its par value of
+         10,000, and is bought to yield an annual nominal interest rate of i, convertible
+         semiannually.
+      ii) Bond A has an annual coupon rate of (i + 0.04), paid semiannually.
+      iii) Bond B has an annual coupon rate of (i – 0.04), paid semiannually.
+      iv) The price of Bond A is 5,341.12 greater than the price of Bond B.
+
+
+Calculate i.
+
+
+         (A)     0.042
+         (B)     0.043
+         (C)     0.081
+         (D)     0.084
+         (E)     0.086

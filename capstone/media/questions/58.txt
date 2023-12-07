@@ -1,0 +1,15 @@
+Sam buys an eight-year, 5000 par bond with an annual coupon rate of 5%, paid annually. The
+bond sells for 5000. Let d1 be the Macaulay duration just before the first coupon is paid. Let
+d 2 be the Macaulay duration just after the first coupon is paid.
+
+
+            d1
+Calculate      .
+            d2
+
+
+       (A)         0.91
+       (B)         0.93
+       (C)         0.95
+       (D)         0.97
+       (E)         1.00

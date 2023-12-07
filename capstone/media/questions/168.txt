@@ -1,0 +1,20 @@
+The Federal Open Market Committee (FOMC) has decided to decrease the target level of the
+federal funds rate.
+Determine the effect on the reserving and lending activity of U.S. banks.
+
+
+       (A)     It becomes more expensive for banks to run a shortfall in their reserve accounts;
+               thus, banks will be motivated to write fewer loans, and the interest rates charged
+               on these loans will decrease.
+       (B)     It becomes more expensive for banks to run a shortfall in their reserve accounts;
+               thus, banks will be motivated to write fewer loans, and the interest rates charged
+               on these loans will increase.
+       (C)     It becomes more expensive for banks to run a shortfall in their reserve accounts;
+               thus, banks will be motivated to write more loans, and the interest rates charged
+               on these loans will decrease.
+       (D)     It becomes less expensive for banks to run a shortfall in their reserve accounts;
+               thus, banks will be motivated to write more loans, and the interest rates charged
+               on these loans will increase.
+       (E)     It becomes less expensive for banks to run a shortfall in their reserve accounts;
+               thus, banks will be motivated to write more loans, and the interest rates charged
+               on these loans will decrease.

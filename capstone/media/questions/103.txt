@@ -1,0 +1,20 @@
+A bank issues three annual coupon bonds redeemable at par, all with the same term, price, and
+annual effective yield rate.
+The first bond has face value 1000 and annual coupon rate 5.28%.
+The second bond has face value 1100 and annual coupon rate 4.40%.
+The third bond has face value 1320 and annual coupon rate r.
+
+
+Calculate r.
+
+
+       (A)     2.46%
+       (B)     2.93%
+       (C)     3.52%
+       (D)     3.67%
+       (E)     4.00%
+
+
+
+
+                                                                                                  55

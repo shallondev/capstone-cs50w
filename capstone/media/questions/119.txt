@@ -1,0 +1,27 @@
+A bank accepts a 20,000 deposit from a customer on which it guarantees to pay an annual
+effective interest rate of 10% for two years. The customer needs to withdraw half of the
+accumulated value at the end of the first year. The customer will withdraw the remaining value
+at the end of the second year.
+The bank has the following investment options available, which may be purchased in any
+quantity:
+       Bond H:        A one-year zero-coupon bond yielding 10% annually
+       Bond I:        A two-year zero-coupon bond yielding 11% annually
+       Bond J:        A two-year bond that sells at par with 12% annual coupons
+Any portion of the 20,000 deposit that is not needed to be invested in bonds is retained by the
+bank as profit.
+
+
+Determine which of the following investment strategies produces the highest profit for the bank
+and is guaranteed to meet the customer’s withdrawal needs.
+
+
+       (A)     9,091 in Bond H, 8,264 in Bond I, 2,145 in Bond J
+       (B)     10,000 in Bond H, 10,000 in Bond I
+       (C)     10,000 in Bond H, 9,821 in Bond I
+       (D)     8,910 in Bond H, 731 in Bond I, 10,000 in Bond J
+       (E)     8,821 in Bond H, 10,804 in Bond J
+
+
+
+
+                                                                                                  64

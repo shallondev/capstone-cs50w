@@ -1,0 +1,16 @@
+Stocks F and J are valued using the dividend discount model. The required annual effective rate
+of return is 8.8%. The dividend of Stock F has an annual growth rate of g and the dividend of
+Stock J has an annual growth rate of –g.
+The dividends of both stocks are paid annually on the same date.
+The value of Stock F is twice the value of Stock J. The next dividend on Stock F is half of the
+next dividend on Stock J.
+
+
+Calculate g.
+
+
+       (A)     0.0%
+       (B)     0.8%
+       (C)     2.9%
+       (D)     5.3%
+       (E)     8.8%

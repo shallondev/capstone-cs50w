@@ -1,0 +1,21 @@
+You are given the following information with respect to a bond:
+      (i)          par value: 1000
+      (ii)         term to maturity: 3 years
+      (iii)        annual coupon rate: 6% payable annually
+You are also given that the one, two, and three year annual spot interest rates are 7%, 8%, and
+9% respectively.
+
+
+Calculate the value of the bond.
+
+
+(A)          906
+(B)          926
+(C)          930
+(D)          950
+(E)          1000
+
+
+
+
+                                                                                                  18

@@ -1,0 +1,20 @@
+The prices of zero-coupon bonds are:
+          Maturity      Price
+          1             0.95420
+          2             0.90703
+          3             0.85892
+
+
+Calculate the one-year forward rate, deferred two years.
+
+
+       (A)     0.048
+       (B)     0.050
+       (C)     0.052
+       (D)     0.054
+       (E)     0.056
+
+
+
+
+                                                                                                  31

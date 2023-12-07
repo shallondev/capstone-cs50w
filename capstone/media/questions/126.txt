@@ -1,0 +1,26 @@
+An annuity having n payments of 1 has a present value of X. The first payment is made at the
+end of three years and the remaining payments are made at seven-year intervals thereafter.
+
+
+Determine X.
+
+
+               a7 n +3 − a3
+       (A)
+                   s3
+
+               a7 n +3 − a3
+       (B)
+                   a7
+
+               a7 n +3 − a7
+       (C)
+                   a3
+
+               a7 n +3 − a7
+       (D)
+                   a7
+
+               a7 n +3 − a7
+       (E)
+                   s3

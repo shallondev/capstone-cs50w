@@ -1,0 +1,80 @@
+Let S be the accumulated value of 1000 invested for two years at a nominal annual rate of
+discount d convertible semiannually, which is equivalent to an annual effective interest rate of i.
+Let T be the accumulated value of 1000 invested for one year at a nominal annual rate of
+discount d convertible quarterly.
+S / T = (39 / 38) 4 .
+
+
+Calculate i.
+
+
+        (A)      10.0%
+        (B)      10.3%
+        (C)      10.8%
+        (D)      10.9%
+        (E)      11.1%
+
+
+
+
+                                                                                                 45
+96,
+An investor’s retirement account pays an annual nominal interest rate of 4.2%, convertible
+monthly.
+On January 1 of year y, the investor’s account balance was X. The investor then deposited 100 at
+the end of every quarter. On May 1 of year (y + 10), the account balance was 1.9X.
+
+
+Determine which of the following is an equation of value that can be used to solve for X.
+
+
+                              42
+                  1.9 X                100
+       (A)                124
+                              +∑            k −1
+                                                 =
+                                                 X
+                              k =1 (1.0105)
+                (1.0105) 3
+                     42
+                              100             1.9 X
+       (B)      X +∑              3( k −1)
+                                           =
+                    k =1 (1.0035)          (1.0035)124
+                     41
+                            100         1.9 X
+       (C)      X +∑              3k
+                                     =
+                    k =1 (1.0035)    (1.0035)124
+                     41
+                             100          1.9 X
+       (D)      X +∑              k −1
+                                       =        124
+                    k =1 (1.0105)
+                                       (1.0105) 3
+                     42
+                             100          1.9 X
+       (E)      X +∑              k −1
+                                       =        124
+                    k =1 (1.0105)
+                                       (1.0105) 3
+97.
+Five deposits of 100 are made into a fund at two-year intervals with the first deposit at the
+beginning of the first year.
+The fund earns interest at an annual effective rate of 4% during the first six years and at an
+annual effective rate of 5% thereafter.
+
+
+Calculate the annual effective yield rate earned over the investment period ending at the end of
+the tenth year.
+
+
+       (A)     4.18%
+       (B)     4.40%
+       (C)     4.50%
+       (D)     4.58%
+       (E)     4.78%
+
+
+
+                                                                                                 46

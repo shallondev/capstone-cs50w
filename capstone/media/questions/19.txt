@@ -1,0 +1,14 @@
+David can receive one of the following two payment streams:
+      (i)          100 at time 0, 200 at time n years, and 300 at time 2n years
+      (ii)         600 at time 10 years
+At an annual effective interest rate of i, the present values of the two streams are equal.
+
+
+Given v n = 0.76 , calculate i.
+
+
+             (A)      3.5%
+             (B)      4.0%
+             (C)      4.5%
+             (D)      5.0%
+             (E)      5.5%

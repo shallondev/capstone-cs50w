@@ -1,0 +1,15 @@
+Cash flows are 40,000 at time 2 (in years), 25,000 at time 3, and 100,000 at time 4. The annual
+effective yield rate is 7.0%.
+
+
+Calculate the Macaulay duration.
+
+
+       (A)     2.2
+       (B)     2.3
+       (C)     3.1
+       (D)     3.3
+       (E)     3.4
+
+
+123. Deleted

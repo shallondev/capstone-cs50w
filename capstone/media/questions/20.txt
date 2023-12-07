@@ -1,0 +1,20 @@
+Payments are made to an account at a continuous rate of (8k + tk), where 0 ≤ t ≤ 10 .
+                                                     1
+Interest is credited at a force of interest δ t =       .
+                                                    8+t
+After time 10, the account is worth 20,000.
+
+
+Calculate k.
+
+
+             (A)      111
+             (B)      116
+             (C)      121
+             (D)      126
+             (E)      131
+
+
+
+
+                                                                                              12

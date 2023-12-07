@@ -1,0 +1,19 @@
+A perpetuity-due with semi-annual payments consists of two level payments of 300, followed by
+a series of increasing payments. Beginning with the third payment, each payment is 200 larger
+than the preceding payment.
+Using an annual effective interest rate of i, the present value of the perpetuity is 475,000.
+
+
+Calculate i.
+
+
+       (A)     4.05%
+       (B)     4.09%
+       (C)     4.13%
+       (D)     4.17%
+       (E)     4.21%
+
+
+
+
+                                                                                                  69

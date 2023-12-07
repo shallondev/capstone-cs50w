@@ -1,0 +1,19 @@
+The present value of a perpetuity paying 1 every two years with first payment due immediately is
+7.21 at an annual effective rate of i.
+Another perpetuity paying R every three years with the first payment due at the beginning of year
+two has the same present value at an annual effective rate of i + 0.01.
+
+
+Calculate R.
+
+
+       (A)     1.23
+       (B)     1.56
+       (C)     1.60
+       (D)     1.74
+       (E)     1.94
+
+
+
+
+                                                                                              40

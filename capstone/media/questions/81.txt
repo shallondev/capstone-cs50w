@@ -1,0 +1,21 @@
+An investor purchases a 10-year callable bond with face amount of 1000 for price P. The bond
+has an annual nominal coupon rate of 10% paid semi-annually.
+The bond may be called at par by the issuer on every other coupon payment date, beginning with
+the second coupon payment date.
+The investor earns at least an annual nominal yield of 12% compounded semi-annually
+regardless of when the bond is redeemed.
+
+
+Calculate the largest possible value of P.
+
+
+       (A)     885
+       (B)     892
+       (C)     926
+       (D)     965
+       (E)     982
+
+
+
+
+                                                                                            43

@@ -1,0 +1,14 @@
+Jeff deposits 10 into a fund today and 20 fifteen years later. Interest for the first 10 years is
+credited at a nominal discount rate of d compounded quarterly, and thereafter at a nominal
+interest rate of 6% compounded semiannually. The accumulated balance in the fund at the end
+of 30 years is 100.
+
+
+Calculate d.
+
+
+       (A)     4.33%
+       (B)     4.43%
+       (C)     4.53%
+       (D)     4.63%
+       (E)     4.73%

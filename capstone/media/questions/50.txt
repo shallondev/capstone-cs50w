@@ -1,0 +1,17 @@
+You are given the following information about a loan of L that is to be repaid with a series of 16
+annual payments:
+      (i)          The first payment of 2000 is due one year from now.
+      (ii)         The next seven payments are each 3% larger than the preceding payment.
+      (iii)        From the 9th to the 16th payment, each payment will be 3% less than the preceding
+                   payment.
+      (iv)         The loan has an annual effective interest rate of 7%.
+
+
+Calculate L.
+
+
+             (A)      20,689
+             (B)      20,716
+             (C)      20,775
+             (D)      21,147
+             (E)      22,137

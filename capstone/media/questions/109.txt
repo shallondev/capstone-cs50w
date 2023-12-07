@@ -1,0 +1,19 @@
+Annuity A pays 1 at the beginning of each year for three years. Annuity B pays 1 at the
+beginning of each year for four years.
+The Macaulay duration of Annuity A at the time of purchase is 0.93. Both annuities offer the
+same yield rate.
+
+
+Calculate the Macaulay duration of Annuity B at the time of purchase.
+
+
+       (A)     1.240
+       (B)     1.369
+       (C)     1.500
+       (D)     1.930
+       (E)     1.965
+
+
+
+
+                                                                                                 58
