@@ -21,6 +21,7 @@ TOPIC_CHOICES = [
 class User(AbstractUser):
     pass
 
+
 class Question(models.Model):
     id = models.AutoField(primary_key=True)
     content = models.TextField()
@@ -30,6 +31,7 @@ class Question(models.Model):
     def __str__(self):
         return f"Question: {self.id}"
 
+
 class Exam(models.Model):
     size = models.PositiveIntegerField(default=30)
     time = models.PositiveIntegerField(default=180)
@@ -37,6 +39,9 @@ class Exam(models.Model):
     score = models.DecimalField(max_digits=5, decimal_places=2, default=0.00)
     date = models.DateTimeField(auto_now_add=True)
     questions = models.ManyToManyField(Question)
+
+    def __str__(self):
+        return f"Exam - Size: {self.size}, Time: {self.time} minutes, User: {self.user.username}, Score: {self.score}, Date: {self.date}"
 
 
 class UserQuestion(models.Model):

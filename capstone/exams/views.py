@@ -3,11 +3,34 @@ from django.http import HttpResponseRedirect
 from django.shortcuts import render
 from django.contrib.auth import authenticate, login, logout
 from django.urls import reverse
+from django.contrib.auth.decorators import login_required
+
 
 from .models import User
+from .forms import CreateExamForm
+from .util import generate_exam
 # Create your views here.
+
+
+@login_required
+def create_exam(request):
+    if request.method == 'POST':
+        form = CreateExamForm(request.POST)
+        if form.is_valid():
+            user = request.user
+            num_questions = form.cleaned_data['size']
+            exam_time = form.cleaned_data['time']
+            generate_exam(user, num_questions, exam_time)
+            return render(request, 'exams/create_exam.html', {'form': form, 'success_message': 'Exam generated successfully'})
+    else:
+        form = CreateExamForm()
+
+    return render(request, 'exams/create_exam.html', {'form': form})
+
+
 def index(request):
     return render(request, "exams/index.html")
+
 
 def login_view(request):
     if request.method == "POST":
@@ -27,6 +50,7 @@ def login_view(request):
             })
     else:
         return render(request, "exams/login.html")
+
 
 def logout_view(request):
     logout(request)
