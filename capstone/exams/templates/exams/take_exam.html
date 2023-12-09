@@ -1,0 +1,59 @@
+{% extends "exams/layout.html" %}
+
+{% block body %}
+    <h2>Take Exam!</h2>
+    
+    <p>Exam ID: {{ exam.id }}</p>
+
+    <form method="post" action="">
+        {% csrf_token %}
+        
+        {% for key, question in question_dict.items %}
+            <fieldset>
+                <legend>{{ key }}</legend>
+                <p class="question">{{ question }}</p>
+                <label for="{{ key }}">Your Answer:</label>
+                <select name="{{ key }}" id="{{ key }}" required>
+                    <option value="A">Option A</option>
+                    <option value="B">Option B</option>
+                    <option value="C">Option C</option>
+                    <option value="D">Option D</option>
+                    <option value="E">Option E</option>
+                </select>
+            </fieldset>
+        {% endfor %}
+
+        <input type="submit" value="Submit Exam">
+    </form>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            var questions = document.querySelectorAll('.question');
+
+            questions.forEach(question => {
+                var content = question.innerHTML;
+
+                // Search for '(A)-(E)' and insert a new line before it
+                var newContent = content.replace(/\(A\)/g, '<br><br>(A)');
+                newContent = newContent.replace(/\(B\)/g, '<br>(B)');
+                newContent = newContent.replace(/\(C\)/g, '<br>(C)');
+                newContent = newContent.replace(/\(D\)/g, '<br>(D)');
+                newContent = newContent.replace(/\(E\)/g, '<br>(E)');
+
+                // Search for '(i)-(iv)' and insert a new line before it
+                newContent = newContent.replace(/\(i\)/g, '<br><br>(i)');
+                newContent = newContent.replace(/\(ii\)/g, '<br>(ii)');
+                newContent = newContent.replace(/\(ii\)/g, '<br>(iii)');
+                newContent = newContent.replace(/\(iv\)/g, '<br>(iv)');
+
+                // Search for '.' or ':' and insert a new line after it, but not after a number
+                newContent = newContent.replace(/(?<!\d)[.]\s/g, '$&<br>');
+
+                // Search for the word 'Calculate' and insert a new line before it
+                newContent = newContent.replace(/\bCalculate\b/g, '<br>Calculate');
+
+                question.innerHTML = newContent;
+            });
+        });
+    </script>
+{% endblock %}

@@ -33,15 +33,15 @@ class Question(models.Model):
 
 
 class Exam(models.Model):
+    id = models.AutoField(primary_key=True)
     size = models.PositiveIntegerField(default=30)
     time = models.PositiveIntegerField(default=180)
     user = models.ForeignKey(User, on_delete=models.CASCADE)
     score = models.DecimalField(max_digits=5, decimal_places=2, default=0.00)
-    date = models.DateTimeField(auto_now_add=True)
     questions = models.ManyToManyField(Question)
 
     def __str__(self):
-        return f"Exam - Size: {self.size}, Time: {self.time} minutes, User: {self.user.username}, Score: {self.score}, Date: {self.date}"
+        return f"Exam - Size: {self.size}, Time: {self.time} minutes, User: {self.user.username}, Score: {self.score}, ID: {self.id}"
 
 
 class UserQuestion(models.Model):

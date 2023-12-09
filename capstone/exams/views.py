@@ -1,16 +1,32 @@
 from django.db import IntegrityError
 from django.http import HttpResponseRedirect
-from django.shortcuts import render
+from django.shortcuts import get_object_or_404, render
 from django.contrib.auth import authenticate, login, logout
 from django.urls import reverse
 from django.contrib.auth.decorators import login_required
 
 
-from .models import User
+from .models import Exam, Question, User
 from .forms import CreateExamForm
 from .util import generate_exam
 # Create your views here.
 
+@login_required
+def take_exam(request, exam_id):        
+    # Get exam information
+    exam_instance = get_object_or_404(Exam, pk=exam_id)
+    
+    
+    question_dict = {}
+    for index, question in enumerate(exam_instance.questions.all(), start=1):
+        key = f"Question {index}"
+        question_dict[key] = question.content
+
+    return render(request, 'exams/take_exam.html', {
+        'exam': exam_instance, 
+        'question_dict': question_dict
+        })
+    
 
 @login_required
 def create_exam(request):
@@ -20,8 +36,13 @@ def create_exam(request):
             user = request.user
             num_questions = form.cleaned_data['size']
             exam_time = form.cleaned_data['time']
-            generate_exam(user, num_questions, exam_time)
-            return render(request, 'exams/create_exam.html', {'form': form, 'success_message': 'Exam generated successfully'})
+
+            # Generate exam and get the instance
+            exam_instance = generate_exam(user, num_questions, exam_time)
+            exam_instance.save()
+
+            # Redirect to the take_exam view for the new exam
+            return take_exam(request, exam_instance.id)
     else:
         form = CreateExamForm()
 

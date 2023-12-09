@@ -21,4 +21,4 @@ def generate_exam(user, num_questions, exam_time):
     # Add random questions to the exam
     exam.questions.set(random_questions)
 
-    return f"Exam generated for user {user.username} with {num_questions} questions, size {exam_size}, and time {exam_time} minutes"
+    return exam
