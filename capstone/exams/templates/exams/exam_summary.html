@@ -1,0 +1,22 @@
+{% extends "exams/layout.html" %}
+
+{% block body %}
+    <h2>Exam Summary</h2>
+        
+    <p>Exam ID: {{ exam.id }}</p>
+    <p>Your Score: {{ user_score }}%</p>
+
+    <h3>Your Answers:</h3>
+    <ul>
+        {% for user_question in user_questions %}
+            <li>
+                {{ user_question.question.content }}
+                {% if user_question.is_correct %}
+                    <span style="color: green;">(Correct)</span>
+                {% else %}
+                    <span style="color: red;">(Incorrect)</span>
+                {% endif %}
+            </li>
+        {% endfor %}
+    </ul>
+{% endblock %}
