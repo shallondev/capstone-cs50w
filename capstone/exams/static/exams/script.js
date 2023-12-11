@@ -1,24 +1,32 @@
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('DOMContentLoaded event fired');
+    console.log('Script is running');
 
     // Get elements
-    var questions = document.querySelectorAll('.question');
+    var questionContents = document.querySelectorAll('.question-content');
 
     // Format question content
-    questions.forEach(question => {
-        question.innerHTML = formatQuestionContent(question.innerHTML);
+    questionContents.forEach(content => {
+        content.innerHTML = formatQuestionContent(content.innerHTML);
     });
 
-    // Helper function to format question content
     function formatQuestionContent(content) {
-        // Modify the content using regular expressions
+        console.log('Formatting content:', content);
+    
+        // Add line breaks after Roman numerals and certain patterns
         content = content.replace(/(\([A-E]\))/g, '<br><br>$1');
-        content = content.replace(/(\(i\))/g, '<br><br>$1');
-        content = content.replace(/(\(ii\))/g, '<br>$1');
-        content = content.replace(/(\(iii\))/g, '<br>$1');
-        content = content.replace(/(\(iv\))/g, '<br>$1');
-        content = content.replace(/(?<!\d)[.]\s/g, '$&<br>');
+        content = content.replace(/(\(?[ivxlc]+\))/ig, '<br>$1');
+        
+        // Add line breaks after certain patterns
+        content = content.replace(/(?<![A-Z\d])[.]\s/g, '$&<br>');
+        
+        // Separate 'Calculate' from the following text
         content = content.replace(/\b(Calculate)\b/g, '<br>$1');
+    
+        console.log('Formatted content:', content);
         return content;
     }
+    
 });
+
+
+
