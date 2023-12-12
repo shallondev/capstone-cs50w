@@ -1,44 +1,40 @@
 {% extends "exams/layout.html" %}
 {% load static %}
 
+
 {% block body %}
-    <div class="container text-center mt-4">
-        <h2>Take Exam!</h2>
+    <h2 class="exam-text-fm" style="padding-left: 30px;">Take Exam!</h2>
+
+    <form id="takeExamID" method="post" action="">
+        {% csrf_token %}
         
-        <p>Exam ID: {{ exam.id }}</p>
+        {% for key, question in question_dict.items %}
+            <fieldset style="padding-left: 30px; padding-right: 30px; max-width: 100%; text-align: left;">
+                <legend class="exam-text-fm">{{ key }}</legend>
+                <p class="question">{{ question }}</p>
+                <label for="{{ key }}" class="exam-text-fm"></label>
+                <select style="width: 30%; box-sizing: border-box;" class="form-control" name="{{ key }}" id="{{ key }}" required>
+                    <option value="" selected disabled>Select an option</option>>
+                    <option value="A">Option A</option>
+                    <option value="B">Option B</option>
+                    <option value="C">Option C</option>
+                    <option value="D">Option D</option>
+                    <option value="E">Option E</option>
+                </select>
+            </fieldset>     
+        {% endfor %}
+        <br>
+        <div style="padding-left: 30px;">
+            <input type="submit" class="btn btn-outline-danger" value="Submit Exam">
+        </div>
+    </form>
 
-        <form method="post" action="" class="mt-3">
-            {% csrf_token %}
-            
-            {% for key, question in question_dict.items %}
-                <div class="card mb-3">
-                    <div class="card-header bg-info text-white">
-                        {{ key }}
-                    </div>
-                    <div class="card-body">
-                        <p class="question-content">{{ question }}</p>
-                        <div class="form-group">
-                            <label for="{{ key }}">Your Answer:</label>
-                            <select name="{{ key }}" id="{{ key }}" class="form-control" required>
-                                <option value="A">Option A</option>
-                                <option value="B">Option B</option>
-                                <option value="C">Option C</option>
-                                <option value="D">Option D</option>
-                                <option value="E">Option E</option>
-                            </select>
-                        </div>
-                    </div>
-                </div>
-            {% endfor %}
-
-            <button type="submit" class="btn btn-outline-primary">Submit Exam</button>
-        </form>
-    </div>
+    <div id="examIdContainer" style="display: none;" data-exam-id="{{ exam.id }}"></div>
 {% endblock %}
 
 {% block script %}
     <script src="{% static 'exams/script.js' %}"></script>
+    <script src="{% static 'exams/timer.js' %}"></script>
+    <div id="examTime" class="exam-text-fm" data-time="{{ exam.time }}"></div>
 {% endblock %}
-
-
 

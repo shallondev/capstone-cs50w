@@ -1,16 +1,20 @@
 {% extends "exams/layout.html" %}
 
 {% block body %}
-    <div style="text-align: center; padding: 20px; border: 1px solid #ADD8E6; margin: 0 auto; max-width: 400px;">
-        <h2 class="text-info">Create Practice Exam!</h2>
+    <div class="exam-style-fm">
+        <h2 class="exam-text-fm">Create Practice Exam!</h2><br>
         {% if success_message %}
             <p>{{ success_message }}</p>
         {% endif %}
 
         <form method="post">
             {% csrf_token %}
-            {{ form.as_p }}
-            <button type="submit" class="btn btn-outline-primary">Generate Exam</button>
+            <div class="exam-text-fm">
+                {{ form.as_p }}
+            </div>
+            <div style="text-align: center">
+                <button type="submit" class="btn btn-outline-danger">Generate Exam</button>
+            </div>
         </form>
     </div>
 {% endblock %}

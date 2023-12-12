@@ -10,6 +10,10 @@ class CreateExamForm(ModelForm):
             'size', 'time'
         ]
         widgets = {
-            'size': forms.NumberInput(attrs={'class': 'form-control', 'placeholder': 'Number of Questions (default=30) (1-30)'}),
-            'time': forms.NumberInput(attrs={'class': 'form-control', 'placeholder': 'Enter time in minutes (default=180) (range: (5, 180))'}),
+            'size': forms.NumberInput(attrs={'class': 'form-control form-control-small', 'placeholder': 'Number of Questions (default=30) (1-30)'}),
+            'time': forms.NumberInput(attrs={'class': 'form-control form-control-small', 'placeholder': 'Enter time in minutes (default=180) (range: (5, 180))'}),
+        }
+        labels = {
+            'size': 'Number of Questions',
+            'time': 'Time in Minutes',
         }

@@ -2,19 +2,19 @@
 {% load static %}
 
 {% block body %}
-    <div class="container text-center mt-4">
-        <div class="card mb-3" style="max-width: 1200px; margin: 0 auto;">
-            <div class="card-header bg-info text-white">
+    <div class="container mt-4">
+        <div class="card mb-3 exam-style-fm" style="padding-left: 30px; border: none;"> <!-- Remove borders and add left padding -->
+            <div class="card-header bg-danger text-white">
                 <h2>Exam Summary</h2>
             </div>
             <div class="card-body">
-                <p class="card-text">Exam ID: {{ exam.id }}</p>
-                <p class="card-text">Your Score: {{ user_score }}%</p>
-                <h3>Your Answers:</h3>
+                <p class="card-text exam-text-fm">Exam ID: {{ exam.id }}</p>
+                <p class="card-text exam-text-fm">Your Score: {{ user_score }}%</p>
+                <h3 class="exam-text-fm">Your Answers:</h3>
                 {% for user_question in user_questions %}
-                    <div class="card mb-3 border-info"> <!-- Add border-info class for blue border -->
+                    <div class="card mb-3 border-info" style="border: none; margin-left: -15px;"> <!-- Remove borders and adjust margin-left -->
                         <div class="card-body question-content">
-                            {{ user_question.question.content }}
+                            <p class="question">{{ user_question.question.content }}</p>
                             {% if user_question.is_correct %}
                                 <span class="badge badge-success float-right">Correct</span>
                             {% else %}

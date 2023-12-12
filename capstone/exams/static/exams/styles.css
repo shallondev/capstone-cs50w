@@ -1,0 +1,29 @@
+.exam-style-fm {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #810c15;
+    margin: 0 auto;
+    max-width: 100%;
+    width: 900px;
+  }
+
+.exam-style-fm form {
+    display: inline-block; /* This ensures the form is only as wide as its content */
+    text-align: left; /* Reset text alignment inside the form */
+}
+
+.exam-style-fm input[type="number"] {
+    width: 500px; /* Adjust the width as needed */
+    text-align: center;
+    margin: 5px; /* Optional: Add margin for spacing */
+}
+
+  .form-control-small {
+    width: 150px; 
+    text-align: center;
+}
+
+.exam-text-fm {
+    color: rgba(126, 7, 7, 0.856)
+}
+
